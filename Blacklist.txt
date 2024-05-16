@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 06 Apr 2024 22:13 UTC (updated regularly)
+! Last modified: 16 May 2024 12:54 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0.fls.doubleclick.net
@@ -2007,6 +2007,7 @@
 0.0.0.0 chimamanndgaocozmi.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 china.inmobi.com
+0.0.0.0 chitchooms.net
 0.0.0.0 chitika.net
 0.0.0.0 chordindonesia.com
 0.0.0.0 chordmudah.com
@@ -10397,6 +10398,7 @@
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xml.boffoads.com
+0.0.0.0 xosbkqblniusql.com
 0.0.0.0 xpromo-cdn.qublixaws.com
 0.0.0.0 xshare.api.xiaomi.com
 0.0.0.0 xtendmedia.com
