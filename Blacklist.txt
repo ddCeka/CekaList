@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 06 Jun 2024 14:08 UTC (updated regularly)
+! Last modified: 15 Jun 2024 04:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0.fls.doubleclick.net
@@ -10,7 +10,6 @@
 0.0.0.0 01.static.xsf.ximxim.com
 0.0.0.0 02.static.xsf.ximxim.com
 0.0.0.0 04.static.xsf.ximxim.com
-0.0.0.0 05ee3a24ed11df058c8.com
 0.0.0.0 1001tutorial.com
 0.0.0.0 1001win1.live
 0.0.0.0 100kpj.com
@@ -27,7 +26,6 @@
 0.0.0.0 1742177.fls.doubleclick.net
 0.0.0.0 188affiliates.com
 0.0.0.0 19534.redirect.appmetrica.yandex.com
-0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1phads.com
 0.0.0.0 1rajaiklan.com
 0.0.0.0 1shortlink.com
@@ -92,32 +90,15 @@
 0.0.0.0 5-8-1-ios.appload.ingest.crittercism.com
 0.0.0.0 5-8-10-android.appload.ingest.crittercism.com
 0.0.0.0 506.hostedprebid.com
-0.0.0.0 508327fbe9.95bd06d118.com
 0.0.0.0 578756.gameloft.com
 0.0.0.0 5news.co.id
-0.0.0.0 64p3am9x95ct.com
-0.0.0.0 6631f33cf2a1032b.com
 0.0.0.0 77hoki.com
 0.0.0.0 77upcash.com
 0.0.0.0 7kartu.vip
 0.0.0.0 7mter.pw
 0.0.0.0 99.co
-0.0.0.0 995db2642d3d852b.com
-0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9icmzvn6.website
 0.0.0.0 9to5mac-com.videoplayerhub.com
-0.0.0.0 DNS1.P04.NSONE.NET
-0.0.0.0 DNS1.P09.NSONE.NET
-0.0.0.0 DNS2.P01.NSONE.NET
-0.0.0.0 DNS2.P02.NSONE.NET
-0.0.0.0 DNS2.P05.NSONE.NET
-0.0.0.0 DNS2.P06.NSONE.NET
-0.0.0.0 DNS2.P08.NSONE.NET
-0.0.0.0 DNS2.P09.NSONE.NET
-0.0.0.0 DNS3.P05.NSONE.NET
-0.0.0.0 DNS3.P08.NSONE.NET
-0.0.0.0 DNS4.P03.NSONE.NET
-0.0.0.0 DNS4.P08.NSONE.NET
 0.0.0.0 a.adk2x.com
 0.0.0.0 a.admob.com
 0.0.0.0 a.applvn.com
