@@ -16,7 +16,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-12/Jul/2024-red" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-13/Aug/2024-green" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -51,7 +51,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 
 - Salin URL di atas ke dalam aplikasi HOSTS apa pun yang memungkinkan penambahan URL sebagai sumber. Untuk Android bisa gunakan app seperti [personalDNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [AdAway](https://f-droid.org/en/packages/org.adaway/).  Semua tersedia di [F-Droid.](https://www.f-droid.org/).
 
-- Perlu dicatat bahwa filter ini sebagai pelengkap filter Internasional seperti [StevenBlack](https://github.com/StevenBlack/hosts), [Energized Protection](https://github.com/EnergizedProtection/block).
+- Perlu dicatat bahwa filter ini sebagai pelengkap filter Internasional seperti [StevenBlack](https://github.com/StevenBlack/hosts), [Easylist](https://github.com/easylist/easylist).
 &nbsp;
 
 ## <ins>Alternatif lain untuk Android</ins>
@@ -93,9 +93,9 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
 
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
+                   Version 2, August 2024
  
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+Copyright (C) ddCeka 2024
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
@@ -104,6 +104,6 @@ as the name is changed.
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- 0. You just DO WHAT THE FUCK YOU WANT TO.
+You just DO WHAT THE FUCK YOU WANT TO.
 ```
 
