@@ -1,4 +1,10 @@
-﻿0.0.0.0 0000130.com
+﻿! Title: CekaList - Judi
+! Description: Host file anti situs judi
+! Last modified: 19 Aug 2024 19:21 UTC (updated regularly)
+! host_count: 7690
+! Homepage: https://github.com/ddCeka/CekaList
+
+0.0.0.0 0000130.com
 0.0.0.0 0066130.com
 0.0.0.0 0077130.com
 0.0.0.0 009.casino
