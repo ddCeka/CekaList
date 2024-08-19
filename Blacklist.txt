@@ -1,6 +1,7 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 13 Aug 2024 20:12 UTC (updated regularly)
+! Last modified: 19 Aug 2024 19:11 UTC (updated regularly)
+! host_count: 3296
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 05ee3a24ed11df058c8.com
@@ -354,6 +355,7 @@
 0.0.0.0 beritasampit.com
 0.0.0.0 beritasatu.com
 0.0.0.0 beritasenator.com
+0.0.0.0 beritasiber.com
 0.0.0.0 beritasore.co.id
 0.0.0.0 beritasulawesi.id
 0.0.0.0 beritasulsel.com
@@ -1383,6 +1385,7 @@
 0.0.0.0 juruiklan.com
 0.0.0.0 jwplayer21.com
 0.0.0.0 kabar.news
+0.0.0.0 kabar1lamongan.com
 0.0.0.0 kabar1news.com
 0.0.0.0 kabar4.com
 0.0.0.0 kabar6.com
@@ -1405,6 +1408,7 @@
 0.0.0.0 kabarinspirasi.com
 0.0.0.0 kabarjambikito.id
 0.0.0.0 kabarkalimantan1.com
+0.0.0.0 kabarkata.com
 0.0.0.0 kabarkibar.id
 0.0.0.0 kabarku.net
 0.0.0.0 kabarluwuk.com
@@ -1425,6 +1429,7 @@
 0.0.0.0 kabartamiang.com
 0.0.0.0 kabarterkini.co.id
 0.0.0.0 kabartimurnews.com
+0.0.0.0 kabartoday.id
 0.0.0.0 kabartujuhsatu.news
 0.0.0.0 kabarviral79.com
 0.0.0.0 kabarwarta.id
@@ -1454,6 +1459,7 @@
 0.0.0.0 kamiwebdevelopment.com
 0.0.0.0 kamusbahasaindonesia.org
 0.0.0.0 kanalaspirasi.com
+0.0.0.0 kanalindonesia.com
 0.0.0.0 kanalinspirasi.com
 0.0.0.0 kanalkalimantan.com
 0.0.0.0 kanalntb.co
@@ -1463,6 +1469,7 @@
 0.0.0.0 kantamedia.com
 0.0.0.0 kanzenin.info
 0.0.0.0 kaorinusantara.or.id
+0.0.0.0 kapabar.com
 0.0.0.0 kapanlagi.com
 0.0.0.0 kapol.id
 0.0.0.0 kapuasnews.id
@@ -1637,6 +1644,7 @@
 0.0.0.0 koransn.com
 0.0.0.0 koransulindo.com
 0.0.0.0 korantekad.id
+0.0.0.0 kordindonesia.com
 0.0.0.0 koreksinews.co.id
 0.0.0.0 koreri.com
 0.0.0.0 korporasi.kompas.id
@@ -1892,6 +1900,7 @@
 0.0.0.0 mbaheza.com
 0.0.0.0 mcwnews.com
 0.0.0.0 medanbisnisdaily.com
+0.0.0.0 medandaily.com
 0.0.0.0 medanheadlines.com
 0.0.0.0 medanhot.com
 0.0.0.0 medaninsider.com
@@ -2200,6 +2209,7 @@
 0.0.0.0 oppadrama.cc
 0.0.0.0 oppadrama.site
 0.0.0.0 opsintb.com
+0.0.0.0 optika.id
 0.0.0.0 orami.co.id
 0.0.0.0 otakotaku.com
 0.0.0.0 otakudesu.cloud
@@ -2743,6 +2753,7 @@
 0.0.0.0 siimanga.cyou
 0.0.0.0 sijogja.com
 0.0.0.0 sijorikepri.com
+0.0.0.0 sikabar.com
 0.0.0.0 silabuskepri.co.id
 0.0.0.0 silanews.com
 0.0.0.0 simontok.casa
@@ -2831,6 +2842,7 @@
 0.0.0.0 suarabangsa.co.id
 0.0.0.0 suarabanyuurip.com
 0.0.0.0 suarabaru.id
+0.0.0.0 suarabhinneka.com
 0.0.0.0 suarabinjai.co.id
 0.0.0.0 suaraburuh.com
 0.0.0.0 suaracelebes.com
