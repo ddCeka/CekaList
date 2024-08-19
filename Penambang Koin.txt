@@ -1,4 +1,10 @@
-﻿0.0.0.0 0aqpqdju.me
+﻿! Title: CekaList - Penambang Koin
+! Description: Host file penambang koin
+! Last modified: 19 Aug 2024 19:22 UTC (updated regularly)
+! host_count: 4832
+! Homepage: https://github.com/ddCeka/CekaList
+
+0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.fun
