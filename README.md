@@ -16,7 +16,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-13/Aug/2024-green" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-19/Aug/2024-green" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -95,7 +95,7 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, August 2024
  
-Copyright (C) ddCeka 2024
+Copyright (C) 2024 ddCeka
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
