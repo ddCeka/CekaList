@@ -1,4 +1,10 @@
-﻿0.0.0.0 100percentfedup.com
+﻿! Title: CekaList - Disinformasi dan Propaganda
+! Description: Host file anti situs disinformasi dan propaganda
+! Last modified: 19 Aug 2024 19:21 UTC (updated regularly)
+! host_count: 2116
+! Homepage: https://github.com/ddCeka/CekaList
+
+0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
 0.0.0.0 21stcenturywire.com
 0.0.0.0 365usanews.com
