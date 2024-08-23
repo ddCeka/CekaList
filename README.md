@@ -42,9 +42,23 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 &nbsp;
 
 ## <ins>Link Filter Blokir</ins>
-
-`https://raw.githubusercontent.com/ddCeka/CekaList/master/Blacklist.txt`
-
+- Filter utama
+```
+    https://raw.githubusercontent.com/ddCeka/CekaList/master/Blacklist.txt
+```
+- Filter pelengkap
+```
+    https://raw.githubusercontent.com/ddCeka/CekaList/master/Disinformasi dan Propaganda.txt
+```
+```
+    https://raw.githubusercontent.com/ddCeka/CekaList/master/Judi.txt
+```
+```
+    https://raw.githubusercontent.com/ddCeka/CekaList/master/Penambang Koin.txt
+```
+```
+    https://raw.githubusercontent.com/ddCeka/CekaList/master/Pornografi.txt
+```
 &nbsp;
 
 ## <ins>Cara Penggunaan?</ins>
