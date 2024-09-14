@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 14 Sep 2024 09:59 UTC (updated regularly)
+! Last modified: 14 Sep 2024 10:33 UTC (updated regularly)
 ! host_count: 7372
 ! Homepage: https://github.com/ddCeka/CekaList
 
@@ -298,7 +298,7 @@
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.scorecardresearch.com
-0.0.0.0 ads.sorot.co$1p
+0.0.0.0 ads.sorot.co
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.taptapnetworks.com
 0.0.0.0 ads.telkomsel.com
@@ -1437,7 +1437,7 @@
 0.0.0.0 chilipoker.com
 0.0.0.0 chindohot.site
 0.0.0.0 chitchooms.net
-0.0.0.0 chitchooms.net$xhr
+0.0.0.0 chitchooms.net
 0.0.0.0 choices-or.trustarc.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -2708,7 +2708,6 @@
 0.0.0.0 iklanblogger.com
 0.0.0.0 iklanbogor.com
 0.0.0.0 iklancpm.files.wordpress.com
-0.0.0.0 iklancpm.files.wordpress.com$3p
 0.0.0.0 iklandenpasar.com
 0.0.0.0 iklandisini.com
 0.0.0.0 iklangratis.com
@@ -5250,7 +5249,7 @@
 0.0.0.0 raiden-network.org
 0.0.0.0 raiden.online
 0.0.0.0 raidens.network
-0.0.0.0 rajabacklink.com$3p
+0.0.0.0 rajabacklink.com
 0.0.0.0 rajafilm21.com
 0.0.0.0 rajafilm21.xyz
 0.0.0.0 rajakomen.com
@@ -6471,7 +6470,7 @@
 0.0.0.0 tokojudi.com
 0.0.0.0 tokojudionline.com
 0.0.0.0 tokopedia.link
-0.0.0.0 tolonglah.pages.dev$frame
+0.0.0.0 tolonglah.pages.dev
 0.0.0.0 tomo-coin.io
 0.0.0.0 tomocoin.network
 0.0.0.0 tomocoln.io
@@ -7300,7 +7299,7 @@
 0.0.0.0 xn--yethewallet-iw8ejl.com
 0.0.0.0 xn--zero-zxb.com
 0.0.0.0 xosbkqblniusql.com
-0.0.0.0 xosbkqblniusql.com$xhr
+0.0.0.0 xosbkqblniusql.com
 0.0.0.0 xxibokep.org
 0.0.0.0 y.shavsl.com
 0.0.0.0 yabaisub.com
