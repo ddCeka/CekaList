@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 14 Sep 2024 10:33 UTC (updated regularly)
-! host_count: 7372
+! Last modified: 16 Sep 2024 20:45 UTC (updated regularly)
+! host_count: 7370
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -1436,7 +1436,6 @@
 0.0.0.0 chidsimp.com
 0.0.0.0 chilipoker.com
 0.0.0.0 chindohot.site
-0.0.0.0 chitchooms.net
 0.0.0.0 chitchooms.net
 0.0.0.0 choices-or.trustarc.com
 0.0.0.0 choices.trustarc.com
@@ -4372,6 +4371,7 @@
 0.0.0.0 myltherwallet.ru.com
 0.0.0.0 mymyetherwallet.com
 0.0.0.0 mysimpletoken.org
+0.0.0.0 mytelkomselprod.api.useinsider.com
 0.0.0.0 mytlherwaliet.info
 0.0.0.0 mywetherwailiet.com
 0.0.0.0 myyethwallet.ml
@@ -7298,7 +7298,6 @@
 0.0.0.0 xn--yetherwallet-vjf.com
 0.0.0.0 xn--yethewallet-iw8ejl.com
 0.0.0.0 xn--zero-zxb.com
-0.0.0.0 xosbkqblniusql.com
 0.0.0.0 xosbkqblniusql.com
 0.0.0.0 xxibokep.org
 0.0.0.0 y.shavsl.com
