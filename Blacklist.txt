@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 25 Sep 2024 08:23 UTC (updated regularly)
-! host_count: 7372
+! Last modified: 28 Sep 2024 09:14 UTC (updated regularly)
+! host_count: 7374
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -367,6 +367,7 @@
 0.0.0.0 adtracker.jpchd.veraxen.com
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
+0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 adv-front.devpnd.com
@@ -3917,6 +3918,7 @@
 0.0.0.0 meeweb.com
 0.0.0.0 mega-sofifi.com
 0.0.0.0 megamanado.com
+0.0.0.0 meitustat.com
 0.0.0.0 melansir.com
 0.0.0.0 melayuboleh.me
 0.0.0.0 melintas.id
