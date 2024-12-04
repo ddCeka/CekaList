@@ -1,11 +1,10 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 28 Sep 2024 09:14 UTC (updated regularly)
-! host_count: 7374
+! Last modified: 04 Dec 2024 13:40 UTC (updated regularly)
+! host_count: 7436
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
-0.0.0.0 05ee3a24ed11df058c8.com
 0.0.0.0 0x-project.com
 0.0.0.0 0xproject.io
 0.0.0.0 0xtoken.com
@@ -15,7 +14,6 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 16horsepower.net
 0.0.0.0 188affiliates.com
-0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1detik.info
 0.0.0.0 1f2e7.v.fwmrm.net
 0.0.0.0 1mp.mobi
@@ -30,18 +28,14 @@
 0.0.0.0 24hpoker.com
 0.0.0.0 32redpoker.com
 0.0.0.0 33across.com
-0.0.0.0 34667c8ece5.com
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 360yield.com
 0.0.0.0 396club.co
 0.0.0.0 3poker855.com
 0.0.0.0 4841a27a-aeca-4563-9acf-b84bd2e4a572.random.fihsifuiiusuiuduf.com
 0.0.0.0 4seeresults.com
-0.0.0.0 508327fbe9.95bd06d118.com
 0.0.0.0 58yongzhe.com
 0.0.0.0 5news.co.id
-0.0.0.0 64p3am9x95ct.com
-0.0.0.0 6631f33cf2a1032b.com
 0.0.0.0 691b7289-27a2-4daf-9e9b-485fe30d2331.random.fihsifuiiusuiuduf.com
 0.0.0.0 72ec8d09-fce8-4272-9829-f4a17ae33269.random.fihsifuiiusuiuduf.com
 0.0.0.0 7db24a1f-1cdd-4190-89ec-b2765dadb2cd.random.fihsifuiiusuiuduf.com
@@ -49,14 +43,10 @@
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 88togel.com
 0.0.0.0 912648.aioc.qbgxl.com
-0.0.0.0 92by17snes4.cc
-0.0.0.0 995db2642d3d852b.com
 0.0.0.0 99doyan.com
-0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9icmzvn6.website
 0.0.0.0 a-news.id
 0.0.0.0 a-sjo.1rx.io
-0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.cookpad-ads.com
@@ -126,12 +116,15 @@
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.bandlab.io
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.daum.net
+0.0.0.0 ad.deepthought.industries
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
+0.0.0.0 ad.inston.ltd
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadboltapps.net
@@ -139,6 +132,7 @@
 0.0.0.0 ad.line-scdn.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediamixer.co.kr
+0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.particlenews.com
@@ -146,6 +140,7 @@
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
@@ -164,6 +159,7 @@
 0.0.0.0 adatah.com
 0.0.0.0 adawarta.com
 0.0.0.0 adballoon.afreecatv.com
+0.0.0.0 adballoon.sooplive.co.kr
 0.0.0.0 adblade.com
 0.0.0.0 adbsys.icu
 0.0.0.0 adbutler.costco.com
@@ -228,6 +224,7 @@
 0.0.0.0 admixer.net
 0.0.0.0 admulti.com
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 adnami.io
 0.0.0.0 adnety.com
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 adonly.com
@@ -247,13 +244,17 @@
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 adreviewcamp.com
 0.0.0.0 adrouter-charter-vod.cadenttech.tv
+0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-cloud.rovio.com
+0.0.0.0 ads-config-engine-noneu.truecaller.com
 0.0.0.0 ads-d.viber.com
+0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
+0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-link.net
@@ -264,11 +265,14 @@
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com
+0.0.0.0 ads.adinmotech.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.aitype.net
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.bulldogcpi.com
+0.0.0.0 ads.cocomobi.com
+0.0.0.0 ads.d21.media
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.dewarangga.com
 0.0.0.0 ads.edadeal.ru
@@ -504,6 +508,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 ampclicks.com
+0.0.0.0 amplitude.life360.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 an.batmobi.net
 0.0.0.0 an.facebook.com
@@ -528,12 +533,14 @@
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.app.funnelish.com
+0.0.0.0 analytics.baliusuperapp.xyz
 0.0.0.0 analytics.blue
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kidoz.net
@@ -560,6 +567,7 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andalas-time.com
@@ -595,6 +603,7 @@
 0.0.0.0 anythinktech.com
 0.0.0.0 aoesync.com
 0.0.0.0 aol-match.dotomi.com
+0.0.0.0 aomsitf.com
 0.0.0.0 aopxnvrugx.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aosafrica.co.za
@@ -605,6 +614,7 @@
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
+0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
@@ -741,6 +751,7 @@
 0.0.0.0 atlanticride.com
 0.0.0.0 atnews.id
 0.0.0.0 atsegypt.com
+0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 audid-api.taobao.com
@@ -1054,6 +1065,7 @@
 0.0.0.0 bidiknasional.co.id
 0.0.0.0 bidiknewstoday.com
 0.0.0.0 bidiktangsel.com
+0.0.0.0 bidjora.com
 0.0.0.0 bids.proper.io
 0.0.0.0 bidsopt.com
 0.0.0.0 bidswitch.net
@@ -1285,6 +1297,7 @@
 0.0.0.0 cad.youku.com
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cads.scalemonk.com
+0.0.0.0 caerulus.io
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 cahayabaru.id
@@ -1472,6 +1485,7 @@
 0.0.0.0 click.oneplus.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickmedia.co.id
+0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.okezone.com
 0.0.0.0 clientmetrics-augmentum.kik.com
@@ -1540,6 +1554,7 @@
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
 0.0.0.0 collector1.afreecatv.com
+0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 coltpoker.com
 0.0.0.0 comcast.demdex.net
 0.0.0.0 comicmoi.com
@@ -1702,6 +1717,7 @@
 0.0.0.0 data.sec.miui.com
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 datadikdasmen.com
+0.0.0.0 dataflow.biliapi.com
 0.0.0.0 dataindonesia.id
 0.0.0.0 datanews.id
 0.0.0.0 datum.sale
@@ -1714,6 +1730,7 @@
 0.0.0.0 de-nis-ner-mi-5.info
 0.0.0.0 de01.rayjump.com
 0.0.0.0 deapi.afreecatv.com
+0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 dearerfonder.info
 0.0.0.0 deauduafzgezzfgm.top
 0.0.0.0 debojuagug1sf.cloudfront.net
@@ -1875,6 +1892,7 @@
 0.0.0.0 dojing.net
 0.0.0.0 dokterpajak.com
 0.0.0.0 doktersehat.com
+0.0.0.0 dollphoin.site
 0.0.0.0 domainesia-assets.s3.amazonaws.com
 0.0.0.0 domainesia.com
 0.0.0.0 donttbeevils.de
@@ -2141,19 +2159,23 @@
 0.0.0.0 europoker.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event.clientgear.com
+0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventchain.co
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 events-api.soundcloud.com
+0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.betterhelp.com
+0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.funnelish.com
@@ -2163,6 +2185,7 @@
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.proper.io
+0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
@@ -2282,6 +2305,7 @@
 0.0.0.0 freesoft.id
 0.0.0.0 frekuensinews.com
 0.0.0.0 friendlyduck.com
+0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 frpiksdeygy.com
 0.0.0.0 fryruejoust.cam
 0.0.0.0 funfairtoken.org
@@ -2446,6 +2470,7 @@
 0.0.0.0 groupiklan.com
 0.0.0.0 growfoodsmart.com
 0.0.0.0 growmedia-indo.com
+0.0.0.0 grpc.biliapi.net
 0.0.0.0 grs.hicloud.com
 0.0.0.0 gsmcrackteam.com
 0.0.0.0 gts-ads.twistbox.com
@@ -2598,6 +2623,7 @@
 0.0.0.0 hseda.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpmyetherwallet.com
 0.0.0.0 httpool.com
 0.0.0.0 https-filtering-check.adtidy.org
@@ -2863,6 +2889,7 @@
 0.0.0.0 inisumedang.com
 0.0.0.0 inisurabaya.com
 0.0.0.0 initogel.net
+0.0.0.0 inmense.site
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
 0.0.0.0 inmobi.net
@@ -2881,6 +2908,7 @@
 0.0.0.0 insiden24.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
+0.0.0.0 insights-categorizer-noneu.truecaller.com
 0.0.0.0 insights.zennioptical.com
 0.0.0.0 insitekaltim.com
 0.0.0.0 inspira.tv
@@ -2926,6 +2954,7 @@
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iost.co
 0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ipeenk.com
 0.0.0.0 ipoker.com
@@ -3046,6 +3075,7 @@
 0.0.0.0 jillsclickcorner.com
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jjekxle.com
+0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 jmtech.id
 0.0.0.0 jnn.co.id
 0.0.0.0 jnnews.co.id
@@ -3452,6 +3482,7 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 kuyhaa.me
 0.0.0.0 kuyou.id
+0.0.0.0 kvaedit.site
 0.0.0.0 kvnuke.github.io
 0.0.0.0 kyber-network.co
 0.0.0.0 kyber.digital
@@ -3635,6 +3666,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
@@ -3645,6 +3677,8 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.cleandesigner.live
+0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
@@ -3655,6 +3689,7 @@
 0.0.0.0 log.geetest.com
 0.0.0.0 log.goodreels.com
 0.0.0.0 log.happyapkdown.com
+0.0.0.0 log.heartratepros.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.kajicam.com
 0.0.0.0 log.make50.com
@@ -3854,6 +3889,7 @@
 0.0.0.0 mbsngradnja.com
 0.0.0.0 mcoreads.com
 0.0.0.0 mcrogers.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcwnews.com
 0.0.0.0 mebablo.com
 0.0.0.0 med-api.admost.com
@@ -3906,6 +3942,7 @@
 0.0.0.0 mediasulut.co
 0.0.0.0 mediasumutku.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
+0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediation.unity3d.com
 0.0.0.0 mediatrapnews.id
 0.0.0.0 mediawawasan.com
@@ -4058,6 +4095,8 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moatads.com.edgekey.net
+0.0.0.0 mob2.healthapplines.com
+0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 moba8.net
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads4app.com
@@ -4102,6 +4141,8 @@
 0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monerominer.rocks
 0.0.0.0 monetha-crowdsale.com
 0.0.0.0 monetha.co
@@ -4118,9 +4159,11 @@
 0.0.0.0 monitornusantara.com
 0.0.0.0 monologis.id
 0.0.0.0 monopolisumselnews.com
+0.0.0.0 monsetting.toutiao.com
 0.0.0.0 monwnews.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 morningfinance.com
+0.0.0.0 mossru.com
 0.0.0.0 motherandbeyond.id
 0.0.0.0 motorplus-online.com
 0.0.0.0 motosal.net
@@ -4135,6 +4178,7 @@
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
@@ -4444,6 +4488,7 @@
 0.0.0.0 new.minr.pw
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newfeatureview.perfectionholic.com
+0.0.0.0 news-cdn.site
 0.0.0.0 news.kvibes.id
 0.0.0.0 news24.co.id
 0.0.0.0 newsbandaaceh.com
@@ -4912,6 +4957,7 @@
 0.0.0.0 pixeltrack.eyeviewads.com
 0.0.0.0 planetjudi.com
 0.0.0.0 planettoto.com
+0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
 0.0.0.0 play.gramombird.com
@@ -5208,6 +5254,7 @@
 0.0.0.0 r1---sn-n4v7sn7s.c.2mdn.net
 0.0.0.0 r2d2.aotter.net
 0.0.0.0 r3ndy.com
+0.0.0.0 rabbit.meitustat.com
 0.0.0.0 radar-x.net
 0.0.0.0 radarbahtera.com
 0.0.0.0 radarbandung.id
@@ -5361,6 +5408,7 @@
 0.0.0.0 republikbobotoh.com
 0.0.0.0 republikjatim.com
 0.0.0.0 reqde.afreecatv.com
+0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 reqest.network
 0.0.0.0 reqestnetwork.com
 0.0.0.0 reqnews.com
@@ -5394,6 +5442,7 @@
 0.0.0.0 riaupower.com
 0.0.0.0 riaupublik.com
 0.0.0.0 riausatu.com
+0.0.0.0 richlifeads.ru
 0.0.0.0 richpays.com
 0.0.0.0 riden.network
 0.0.0.0 ridertua.com
@@ -5446,7 +5495,10 @@
 0.0.0.0 rtb0.doubleverify.com
 0.0.0.0 rtbc-uw1.doubleverify.com
 0.0.0.0 rtblab.net
+0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtd-tm.everesttech.net
+0.0.0.0 rtlog.isnssdk.com
+0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtopcadet.com
 0.0.0.0 rtr.innovid.com
 0.0.0.0 rts.mobula.sdk.duapps.com
@@ -5562,6 +5614,7 @@
 0.0.0.0 script.hotjar.com
 0.0.0.0 scriptall.ml
 0.0.0.0 sdiratrust.com
+0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
@@ -6265,6 +6318,7 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 tapstat.ru
+0.0.0.0 tapulsads.ru
 0.0.0.0 target.mixi.media
 0.0.0.0 targetnews.id
 0.0.0.0 targetspot.com
@@ -6276,6 +6330,7 @@
 0.0.0.0 taruhanolahraga.com
 0.0.0.0 taruhansepakbola.com
 0.0.0.0 tatiye.id
+0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdid.m.qq.com
@@ -6361,6 +6416,7 @@
 0.0.0.0 tgram.cc
 0.0.0.0 thaus.top
 0.0.0.0 the-ether.pro
+0.0.0.0 theadex.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 theclickers.net
 0.0.0.0 theedgepoker.com
@@ -6755,6 +6811,7 @@
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 useads.com
 0.0.0.0 usekahuna.com
+0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
@@ -6781,6 +6838,7 @@
 0.0.0.0 vc.cabinet.oneroyal.com
 0.0.0.0 vceilinichego.ru
 0.0.0.0 vcgamers.com
+0.0.0.0 vcs.zijieapi.com
 0.0.0.0 vd.growfoodsmart.com
 0.0.0.0 vebma.com
 0.0.0.0 vechain.foundation
@@ -6836,6 +6894,7 @@
 0.0.0.0 vn.adnetworks.top
 0.0.0.0 voa-islam.com
 0.0.0.0 vocasia.id
+0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 voicemagz.com
 0.0.0.0 voineasa.ro
 0.0.0.0 volceapplog.com
@@ -7079,7 +7138,9 @@
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximad.com
 0.0.0.0 xjudi.com
+0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xmalay.net
 0.0.0.0 xmr.2miners.com
 0.0.0.0 xmr.cool
@@ -7303,6 +7364,7 @@
 0.0.0.0 xn--yethewallet-iw8ejl.com
 0.0.0.0 xn--zero-zxb.com
 0.0.0.0 xosbkqblniusql.com
+0.0.0.0 xplosion.de
 0.0.0.0 xxibokep.org
 0.0.0.0 y.shavsl.com
 0.0.0.0 yabaisub.com
