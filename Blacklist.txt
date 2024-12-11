@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 04 Dec 2024 13:40 UTC (updated regularly)
-! host_count: 7436
+! Last modified: 11 Dec 2024 16:47 UTC (updated regularly)
+! host_count: 7441
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -47,6 +47,9 @@
 0.0.0.0 9icmzvn6.website
 0.0.0.0 a-news.id
 0.0.0.0 a-sjo.1rx.io
+0.0.0.0 a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
+0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.cookpad-ads.com
@@ -303,6 +306,7 @@
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.scorecardresearch.com
+0.0.0.0 ads.smrtbid.com
 0.0.0.0 ads.sorot.co
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.taptapnetworks.com
@@ -3715,6 +3719,7 @@
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 login-kucoin.net
 0.0.0.0 loginshare.net
+0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com
