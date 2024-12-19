@@ -49,6 +49,9 @@ https://raw.githubusercontent.com/ddCeka/CekaList/master/Blacklist.txt
 ```
 - Filter pelengkap
 ```
+https://raw.githubusercontent.com/ddCeka/CekaList/master/Amnesty.txt
+```
+```
 https://raw.githubusercontent.com/ddCeka/CekaList/master/Judi.txt
 ```
 ```
