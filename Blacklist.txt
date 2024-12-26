@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 19 Dec 2024 13:33 UTC (updated regularly)
-! host_count: 7466
+! Last modified: 26 Dec 2024 22:46 UTC (updated regularly)
+! host_count: 7470
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2210,6 +2210,7 @@
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.watchtower.imdbtv.amazon.dev
 0.0.0.0 everestop.io
 0.0.0.0 everypoker.com
 0.0.0.0 evilsbedont.de
@@ -3721,6 +3722,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.pngindir.com
+0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.talkie-ai.com
@@ -4136,6 +4138,7 @@
 0.0.0.0 mobile-click.biz
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
+0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobile333.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilebanner.ru
@@ -5837,6 +5840,7 @@
 0.0.0.0 sewa-villa.com
 0.0.0.0 sewaktu.com
 0.0.0.0 sexpennyauctions.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 sg.log.ulivetv.net

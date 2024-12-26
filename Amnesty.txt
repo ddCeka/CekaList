@@ -1,6 +1,6 @@
-﻿! Title: CekaList - Amnesty
-! Description: Host file anti spyware dari Amnesty internasional
-! Last modified: 19 Dec 2024 13:37 UTC (updated regularly)
+! Title: CekaList
+! Description: Host file from Amnesty International
+! Last modified: 26 Dec 2024 22:48 UTC (updated regularly)
 ! host_count: 4519
 ! Homepage: https://github.com/ddCeka/CekaList
 
