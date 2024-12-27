@@ -47,6 +47,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 ```
 https://raw.githubusercontent.com/ddCeka/CekaList/master/Blacklist.txt
 ```
+&nbsp;
 - Filter pelengkap
 ```
 https://raw.githubusercontent.com/ddCeka/CekaList/master/Amnesty.txt
@@ -61,7 +62,11 @@ https://raw.githubusercontent.com/ddCeka/CekaList/master/Penambang Koin.txt
 https://raw.githubusercontent.com/ddCeka/CekaList/master/Pornografi.txt
 ```
 &nbsp;
-
+- Filter [Ublock Origin](https://github.com/gorhill/uBlock)
+```
+https://raw.githubusercontent.com/ddCeka/CekaList/master/ublock.txt
+```
+&nbsp;
 ## <ins>Cara Penggunaan?</ins>
 
 - Salin URL di atas ke dalam aplikasi HOSTS apa pun yang memungkinkan penambahan URL sebagai sumber. Untuk Android bisa gunakan app seperti [personalDNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [AdAway](https://f-droid.org/en/packages/org.adaway/).  Semua tersedia di [F-Droid.](https://www.f-droid.org/).
