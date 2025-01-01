@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 26 Dec 2024 22:46 UTC (updated regularly)
-! host_count: 7470
+! Last modified: 1 Jan 2025 17:51 UTC (updated regularly)
+! host_count: 7471
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -6448,6 +6448,7 @@
 0.0.0.0 tgl88.xyz
 0.0.0.0 tgl88asia.club
 0.0.0.0 tgram.cc
+0.0.0.0 thapi.aedi.ai
 0.0.0.0 thaus.top
 0.0.0.0 the-ether.pro
 0.0.0.0 theadex.com

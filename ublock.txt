@@ -1,7 +1,7 @@
 ! Title: CekaList
-! Description: Host file anti iklan umum di Indonesia ublock version.
-! Last modified: 27 Dec 2024 17:48 UTC (updated regularly)
-! host_count: 11065
+! Description: Anti iklan umum di Indonesia versi ublock
+! Last modified: 1 Jan 2025 17:56 UTC (updated regularly)
+! host_count: 11071
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ||accounts.google.com/gsi/*$xhr,script,3p
@@ -11069,3 +11069,9 @@ kompas.*##.newBanner-wrap
 cnbcindonesia.*##.smartbanner_new
 cnbcindonesia.*##.ads-slot
 cnbcindonesia.*##.footer__about__apps
+time.is###menupositioner
+time.is###quote
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3
+github.com##.rounded-1.border.blankslate-spacious.blankslate
+github.com##.d-block.d-md-none.mt-3.pt-3.color-border-muted.border-top
+github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1
