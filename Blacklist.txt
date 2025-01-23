@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 1 Jan 2025 17:51 UTC (updated regularly)
-! host_count: 7471
+! Last modified: 23 Jan 2025 13:00 UTC (updated regularly)
+! host_count: 7484
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -13,11 +13,7 @@
 0.0.0.0 1.bdl99down.kukulaa.cn
 0.0.0.0 100kpj.com
 0.0.0.0 139520.aioc.qbgxl.com
-0.0.0.0 166.62.7.206
 0.0.0.0 16horsepower.net
-0.0.0.0 172.104.108.25
-0.0.0.0 172.105.216.174
-0.0.0.0 188.166.197.120
 0.0.0.0 188affiliates.com
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1detik.info
@@ -32,7 +28,6 @@
 0.0.0.0 21cineplex.com
 0.0.0.0 247realmedia.com
 0.0.0.0 24hpoker.com
-0.0.0.0 31.14.252.148
 0.0.0.0 32redpoker.com
 0.0.0.0 33across.com
 0.0.0.0 34667c8ece5.com
@@ -43,7 +38,6 @@
 0.0.0.0 4841a27a-aeca-4563-9acf-b84bd2e4a572.random.fihsifuiiusuiuduf.com
 0.0.0.0 4seeresults.com
 0.0.0.0 508327fbe9.95bd06d118.com
-0.0.0.0 54.222.186.106
 0.0.0.0 58yongzhe.com
 0.0.0.0 5news.co.id
 0.0.0.0 64p3am9x95ct.com
@@ -1508,6 +1502,9 @@
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.okezone.com
+0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clikapps.icu
@@ -1566,6 +1563,7 @@
 0.0.0.0 coinrail.io
 0.0.0.0 coinrbase.com
 0.0.0.0 coinswallet.info
+0.0.0.0 collect.4gtv.tv
 0.0.0.0 collect.analytics.unity3d.com
 0.0.0.0 collect.babybus.com
 0.0.0.0 collect.media.jio.com
@@ -1682,6 +1680,7 @@
 0.0.0.0 d.agkn.com
 0.0.0.0 d.applvn.com
 0.0.0.0 d.cpufan.club
+0.0.0.0 d.kugou.com
 0.0.0.0 d.qqzx.cc
 0.0.0.0 d.reddit.com
 0.0.0.0 d.turn.com
@@ -1729,6 +1728,7 @@
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data-token.com
 0.0.0.0 data.ad-score.com
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -1881,6 +1881,7 @@
 0.0.0.0 djpd.pl
 0.0.0.0 dkliknews.com
 0.0.0.0 dkylb.com
+0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.browsermine.com
@@ -1948,6 +1949,7 @@
 0.0.0.0 drphone.id
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 dsp-api.moloco.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.nrich.ai
 0.0.0.0 dsp.v.fwmrm.net
@@ -4491,6 +4493,8 @@
 0.0.0.0 nawacitapost.com
 0.0.0.0 nawalaanti.lol
 0.0.0.0 nawalakarsa.id
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nch-software.info
 0.0.0.0 ndct-data.video.iqiyi.com
@@ -4509,6 +4513,7 @@
 0.0.0.0 nesabamedia.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 net88.co
+0.0.0.0 netapm.music.163.com
 0.0.0.0 netavenir.com
 0.0.0.0 netherum.com
 0.0.0.0 netitalk.com
@@ -4608,6 +4613,7 @@
 0.0.0.0 npcnc.org
 0.0.0.0 nr-events.taboola.com
 0.0.0.0 nrc.tapas.net
+0.0.0.0 nstool.netease.com
 0.0.0.0 ntbpos.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntt-news.com
@@ -5824,6 +5830,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedby.o2.co.uk
+0.0.0.0 serveraddr.service.kugou.com
 0.0.0.0 service4refresh.info
 0.0.0.0 servisaludocupacional.pe
 0.0.0.0 servr-jkt.com
@@ -6017,6 +6024,7 @@
 0.0.0.0 spectrumreachvpaid762281280105.s.moatpixel.com
 0.0.0.0 speednews-manado.com
 0.0.0.0 speee-ad.akamaized.net
+0.0.0.0 spider-tracker.xiaohongshu.com
 0.0.0.0 spionase-news.com
 0.0.0.0 spiritkepri.com
 0.0.0.0 spiritmadura.com
@@ -6389,6 +6397,7 @@
 0.0.0.0 telegramcoin.us
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
+0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetryverification.net
@@ -6602,6 +6611,7 @@
 0.0.0.0 totojt.com
 0.0.0.0 totomaster.com
 0.0.0.0 totos4d.com
+0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps.doubleverify.com
@@ -6759,6 +6769,7 @@
 0.0.0.0 tw-api.vpon.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 twizt.net
+0.0.0.0 twns.p2ptun.qq.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 tzero-ico.com
@@ -6768,6 +6779,7 @@
 0.0.0.0 u-ad.info
 0.0.0.0 u-on.eu
 0.0.0.0 uadexchange.com
+0.0.0.0 uaid.vtwenty.com
 0.0.0.0 uamrnaakv.com
 0.0.0.0 uasfwallet.com
 0.0.0.0 uat-net.technoratimedia.com
@@ -7409,6 +7421,7 @@
 0.0.0.0 yasir-252.com
 0.0.0.0 yasir-252.net
 0.0.0.0 yc-ads.s3.amazonaws.com
+0.0.0.0 ye.dun.163yun.com
 0.0.0.0 yearnson.finance
 0.0.0.0 yesads.com
 0.0.0.0 yieldkit.com
