@@ -1,13 +1,13 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 1 Jan 2025 17:56 UTC (updated regularly)
-! host_count: 11071
+! Last modified: 8 Feb 2025 09:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||1337x.vpnonly.site
 ||blogger.googleusercontent.com/img/a/*$image
 ||ko-fi.com/cdromance/?hidefeed=true&widget=true&embed=true&preview=true$subdocument
+f95zone.to##.notice--primary.js-notice.notice
 f95zone.to##a.uix_tabItem:nth-of-type(1)
 f95zone.to##a.uix_tabItem:nth-of-type(2)
 f95zone.to##.tabs--standalone.tabs
@@ -57,7 +57,7 @@ imgur.com##.isTop.active.HomeNavbar.Navbar
 imgur.com##.Gallery-EngagementBarContainer
 imgur.com##.BottomRecirc-label
 imgur.com##.UploadSpinner-contentWrapper
-www.androidpolice.com##.active-content.no-badge.small.article-card.article.scroll-offset.display-card
+androidpolice.com##.active-content.no-badge.small.article-card.article.scroll-offset.display-card
 gamefaqs.gamespot.com##.masthead_strip > .row.container
 gamefaqs.gamespot.com##.row.container.masthead_main
 gamefaqs.gamespot.com##.menubutton
@@ -97,40 +97,40 @@ fearlessrevolution.com##.guest.positive.post-reputation.button
 fearlessrevolution.com##.headerbar
 fearlessrevolution.com##.navlinks.linklist.nav-breadcrumbs
 fearlessrevolution.com###page-header > .navbar
-www.pcgamingwiki.com###site-notice
-www.xda-developers.com##.adsninja-rail-container.sidebar
+pcgamingwiki.com###site-notice
+xda-developers.com##.adsninja-rail-container.sidebar
 forum.mobilism.org##.welcome-bar
 forum.mobilism.org##footer
 forum.mobilism.org##div.row-fluid:nth-of-type(2)
 forum.mobilism.org##.statistics > .span12
 forum.mobilism.org##.social-top > .pull-right
 answers.microsoft.com###Announcements > div.f-information.m-alert > div
-www.iplay.com###blockers
-www.iplay.com##.search__field
-www.gtaall.com##.banners
-www.gtaall.com##.guest.stop-waiting
-www.gtainside.com##.box_highlight_error
-www.gtaind.com###p89f
-www.patreon.com##.kolbIl.sc-2cbc2aa3-0
-www.patreon.com##.hkeFJF.sc-eaaab2ce-3
+iplay.com###blockers
+iplay.com##.search__field
+gtaall.com##.banners
+gtaall.com##.guest.stop-waiting
+gtainside.com##.box_highlight_error
+gtaind.com###p89f
+patreon.com##.kolbIl.sc-2cbc2aa3-0
+patreon.com##.hkeFJF.sc-eaaab2ce-3
 userupload.net##.adb-overlay
 retrogametalk.com###kofi-wo-container-mobikofi-widget-overlay-ef50aade-87e6-4ca7-8b25-22704be183b2
 retrogametalk.com##.floatingchat-container-wrap-mobi
 retrogametalk.com###custom_html-20 > .custom-html-widget.textwidget
 retrogametalk.com##.widget-area.sidebar
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/For you/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also search for/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Previously watched/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Explore more/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/From related searches/i))
-www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-www.cnnindonesia.com##.z-\[1\].relative.rounded-full.h-\[40px\].w-\[40px\].justify-center.items-center.inline-flex.bg-cnn_red.social-open-menu
-www.cnnindonesia.com##.lihatjg
-www.cnnindonesia.com##.p-4.stretch.bg-cnn_black_light.relative
-www.cnnindonesia.com##.bg-cnn_red.stretch.px-4.pb-4
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/For you/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also search for/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Previously watched/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Explore more/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/From related searches/i))
+youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget
+youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+cnnindonesia.com##.z-\[1\].relative.rounded-full.h-\[40px\].w-\[40px\].justify-center.items-center.inline-flex.bg-cnn_red.social-open-menu
+cnnindonesia.com##.lihatjg
+cnnindonesia.com##.p-4.stretch.bg-cnn_black_light.relative
+cnnindonesia.com##.bg-cnn_red.stretch.px-4.pb-4
 bravebangers.com##.wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-group > div.wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-group
 bravebangers.com##.wp-block-columns-is-layout-flex.wp-container-core-columns-is-layout-3.is-layout-flex.alignwide.wp-block-columns
 bravebangers.com##footer.wp-block-template-part > .wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.alignfull.wp-block-group
@@ -139,7 +139,17 @@ tokopedia.com##[data-testid="topadsCPMWrapper"]out-constrained.has-global-paddin
 tokopedia.com##[data-testid="linkProductTopads"]:upward([data-testid="master-product-card"])
 tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([class="prd_container-card css-1c4umxf"])
 tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([data-testid="divProduct"])
+tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
+tokopedia.com##.css-1v3uscg
+tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl
 shopee.*##.shopee-search-item-result__item:has([data-sqe="ad"])
+time.is###menupositioner
+time.is###quote
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3
+github.com##.rounded-1.border.blankslate-spacious.blankslate
+github.com##.d-block.d-md-none.mt-3.pt-3.color-border-muted.border-top
+github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1
+community.chocolatey.org##.py-2.callout-warning.callout
 google-analytics.com/analytics.js
 google.com/*/plusone.js
 googlesyndication.com/*/adsbygoogle.js
@@ -153,14 +163,14 @@ facebook.com/plugins/like.php
 facebook.com/*/plugins/like.php
 facebook.com/*/plugins/like_box.php
 facebook.com/*/plugins/share_button.php
-##[href^="http://www.facebook.com/sharer/sharer.php"]
+##[href^="http://facebook.com/sharer/sharer.php"]
 ##[href^="http://web.facebook.com/sharer/sharer.php"]
-##[href^="https://www.facebook.com/sharer/sharer.php"]
+##[href^="https://facebook.com/sharer/sharer.php"]
 ##[href^="https://web.facebook.com/sharer/sharer.php"]
 ##[href^="http://m.facebook.com/sharer/sharer.php"]
 ##[href^="https://m.facebook.com/sharer/sharer.php"]
-##[href^="http://www.twitter.com/share"]
-##[href^="https://www.twitter.com/share"]
+##[href^="http://twitter.com/share"]
+##[href^="https://twitter.com/share"]
 ||youtube.com/[[computeEmptyGif_()]]$image
 ||youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
 ||s0.2mdn.net/ads
@@ -196,9 +206,9 @@ youtube.*###video-masthead
 /watch_autoplayrenderer.js$script,domain=m.youtube.com
 /annotations_module.js$script,domain=m.youtube.com
 /endscreen.js$script,domain=m.youtube.com
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
-/annotations_module.js$script,domain=www.youtube.com
-/endscreen.js$script,domain=www.youtube.com
+/watch_autoplayrenderer.js$script,domain=youtube.com
+/annotations_module.js$script,domain=youtube.com
+/endscreen.js$script,domain=youtube.com
 /altClickToSearch.
 /antirightclick.$script
 /disable-right-click-
@@ -212,19 +222,19 @@ histats.com/*.js
 adtrue.com/*/*.js
 ##.AdtruePopupVideo
 cdn.adtrue.com/v/async_v2.js
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.google.co.id,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.google.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.facebook.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=google.co.id,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=google.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=facebook.com,image
 chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=web.facebook.com,image
 chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=m.facebook.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.twitter.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.github.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.dropbox.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.instagram.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=www.linkedin.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=twitter.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=github.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=dropbox.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=instagram.com,image
+chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=linkedin.com,image
 google.com###drk_settings_icon
 google.co.id###drk_settings_icon
-www.facebook.com###drk_settings_icon
+facebook.com###drk_settings_icon
 web.facebook.com###drk_settings_icon
 m.facebook.com###drk_settings_icon
 mtouch.facebook.com###drk_settings_icon
@@ -236,11 +246,11 @@ github.com###drk_settings_icon
 dropbox.com###drk_settings_icon
 instagram.com###drk_settings_icon
 linkedin.com###drk_settings_icon
-www.diatas-ini-jangan-ke-github.com/*
-www.diatas-ini-jangan-ke-github.id/*
-www.diatas-ini-jangan-ke-github.co/*
-www.diatas-ini-jangan-ke-github.co.id/*
-www.diatas-ini-jangan-ke-github.in/*
+diatas-ini-jangan-ke-github.com/*
+diatas-ini-jangan-ke-github.id/*
+diatas-ini-jangan-ke-github.co/*
+diatas-ini-jangan-ke-github.co.id/*
+diatas-ini-jangan-ke-github.in/*
 @@||lagu-pujian.blogspot.com^
 @@||introducing-broker.blogspot.com^
 @@||icmarkets-ib.blogspot.com^
@@ -328,7 +338,7 @@ vidio.*##.site-footer__socials
 vidio.*##.vjs-share-button
 vidio.*##[href^="https://m.vidio.com/pages/terms-and-conditions"]
 vidio.*##.vidio-logo
-akamaized.net/*/*logo*.*$domain=www.vidio.com,image
+akamaized.net/*/*logo*.*$domain=vidio.com,image
 akamaized.net/*/*logo*.*$domain=m.vidio.com,image
 vidio.*##.vidio-logo__link
 ||@@vidio.*##.site-header__container
@@ -341,19 +351,19 @@ vidio.*##.basic-banner
 vidio.*##.sidebar-banner
 vidio.com##.social-share-toggle
 vidio.com##.user-header__button-share
-akamaized.net/*/banners/*.*$domain=www.vidio.com
-akamaized.net/*/*banner*-quiz*.*$domain=www.vidio.com
-akamaized.net/*/*quiz*.*$domain=www.vidio.com
+akamaized.net/*/banners/*.*$domain=vidio.com
+akamaized.net/*/*banner*-quiz*.*$domain=vidio.com
+akamaized.net/*/*quiz*.*$domain=vidio.com
 akamaized.net/*/banners/*.*$domain=m.vidio.com
 akamaized.net/*/*banner*-quiz*.*$domain=m.vidio.com
 akamaized.net/*/*quiz*.*$domain=m.vidio.com
 @@||vidio.*##[href="https://support.vidio.com/"]
 @@||vidio.*##[href="https://m.vidio.com/live"]
-@@||vidio.*##[href="https://www.vidio.com/live"]
+@@||vidio.*##[href="https://vidio.com/live"]
 vidio.*##[href="https://m.vidio.com/"]
-vidio.*##[href="https://www.vidio.com/"]
+vidio.*##[href="https://vidio.com/"]
 vidio.*##[href="https://m.vidio.com/premier"]
-vidio.*##[href="https://www.vidio.com/premier"]
+vidio.*##[href="https://vidio.com/premier"]
 vidio.*##.premier-menu
 vidio.*##.copyright > [href="/"]
 vidio.*##.b-section__content--scrollable
@@ -404,7 +414,7 @@ filehippo.com##DIV[id="soft-news"]
 filehippo.com##DIV[id="techbeat-widget"]
 filehippo.com##DIV[id="ad-slot-3"]
 filehippo.com##DIV[id="program-items"][class="hidden-xs hidden-sm"]
-filehippo.com##A[href="http://www.outbrain.com/what-is/default/en"]
+filehippo.com##A[href="http://outbrain.com/what-is/default/en"]
 valid.x86.fr##DIV[class="widget-block widget-advert-970"]
 gigapurbalingga.gq##IFRAME[id="aswift_1"][name="aswift_1"]
 graphics-cards.specout.com##DIV[id="ad-atf-top-sq"][class="card-sec detail-section ad active ddc-section-ad rendered ad-has-rendered"]
@@ -699,9 +709,9 @@ foxpush.com##SECTION[id="hero4"]
 apkxmod.com##DIV[class="header clearfix"]
 apkxmod.com##DIV[id="foxpush_subscribe"]
 apkxmod.com##DIV[class="code-block code-block-2"]
-apkxmod.com##IMG[src="https://www.apkxmod.com/wp-content/uploads/apkxmod-small-1.png"]
+apkxmod.com##IMG[src="https://apkxmod.com/wp-content/uploads/apkxmod-small-1.png"]
 apkxmod.com##DIV[class="code-block code-block-1"]
-apkxmod.com##A[href="http://www.apk-manager.net/media_button.*"]
+apkxmod.com##A[href="http://apk-manager.net/media_button.*"]
 forexwinners.net##DIV[class="logo"]
 forexwinners.net##DIV[class="background-cover"]
 forexwinners.net##IFRAME
@@ -723,11 +733,11 @@ elitepvpers.com##DIV[id="tickerwrapper"]
 elitepvpers.com##DIV[class="cwheadad"]
 elitepvpers.com##FORM[id="notices"]
 elitepvpers.com##TD[id="navstart"]
-elitepvpers.com##IMG[src="http://www.elitepvpers.com/images/logo.png"]
-elitepvpers.com##IMG[src="http://www.elitepvpers.com/images/logo_shield_new.png"]
-elitepvpers.com##IMG[src="http://www.elitepvpers.com/images/pvp_white.gif"]
-elitepvpers.com##IMG[src="http://www.elitepvpers.com/images/userbaraxe.png"]
-elitepvpers.com##IMG[src="http://www.elitepvpers.com/images/sidebar_shield.jpg"]
+elitepvpers.com##IMG[src="http://elitepvpers.com/images/logo.png"]
+elitepvpers.com##IMG[src="http://elitepvpers.com/images/logo_shield_new.png"]
+elitepvpers.com##IMG[src="http://elitepvpers.com/images/pvp_white.gif"]
+elitepvpers.com##IMG[src="http://elitepvpers.com/images/userbaraxe.png"]
+elitepvpers.com##IMG[src="http://elitepvpers.com/images/sidebar_shield.jpg"]
 info.url.cloud.360safe.com##IFRAME[id="promotion"]
 secure.icmarkets.com##IMG[class="logo"]
 accounts.google.com##DIV[class="VYMape"]
@@ -918,7 +928,7 @@ youtube.com##DIV[id="footer-logo"]
 askalo.com##DIV[class="bg_slide__container"]
 gamesknit.com##A[class="brand"]
 gamesknit.com##DIV[class="container logo"]
-gamesknit.com##IMG[src="http://www.gamesknit.com/wp-content/uploads/2015/09/macwindowslinuxlogos.jpg"]
+gamesknit.com##IMG[src="http://gamesknit.com/wp-content/uploads/2015/09/macwindowslinuxlogos.jpg"]
 viva.co.id##DIV[id="skinframe-ad-left"]
 viva.co.id##DIV[id="skinframe-ad-right"]
 viva.co.id##DIV[id="bottomframe-ad"]
@@ -1023,7 +1033,7 @@ facebook.com##DIV[class="_7k-"]
 bedigit.com##DIV[class="jumbotron inner-jumbotron jumbotron-inner-fix noise-break parallax-window"]
 linkedin.com##DIV[class="logo_container"]
 shaanig.org##IMG[src="images/misc/vbulletin4_logo.png"]
-shaanig.org##IMG[src="https://www.shaanig.org/images/misc/vbulletin4_logo.png"]
+shaanig.org##IMG[src="https://shaanig.org/images/misc/vbulletin4_logo.png"]
 nanokomputer.id##DIV[id="header_logo"][class="col-xs-3"]
 nanokomputer.id##LI[class="tp-revslider-slidesli active-revslide"]
 nanokomputer.id##LI[class="tp-revslider-slidesli"]
@@ -1031,7 +1041,7 @@ nanokomputer.id##UL[class="tp-revslider-mainul"]
 nanokomputer.id##DIV[id="rev_slider_5_1"][class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive"]
 nanokomputer.id##DIV[id="rev_slider_5_1_wrapper"][class="rev_slider_wrapper fullwidthbanner-container"]
 nanokomputer.id##DIV[class="col-xs-12 box-footer-top"]
-nanokomputer.id##IMG[src="https://www.nanokomputer.id/themes/atomic/img//img-404.jpg"]
+nanokomputer.id##IMG[src="https://nanokomputer.id/themes/atomic/img//img-404.jpg"]
 nanokomputer.id##DIV[class="img-404"]
 nanokomputer.id##DIV[class="banners-one-by-one clearfix row"]
 nanokomputer.id##DIV[class="custombanners row displayCustomBanners1"]
@@ -1106,7 +1116,7 @@ google.com##DIV[class="gmail-devices__copy"]
 filefactory.com##SPAN[class="facebook_text"]
 gameqq.net##DIV[id="header-line-2"][class="header-bg"]
 grid.id##IMG[class="td-retina-data"]
-grid.id##A[href="http://www.cloudkilat.com"]
+grid.id##A[href="http://cloudkilat.com"]
 grid.id##ASIDE[class="widget widget_calendar"]
 grid.id##ASIDE[class="widget widget_tag_cloud"]
 grid.id##DIV[class="textwidget"]
@@ -1170,7 +1180,7 @@ forexfactory.com##DIV[id="footer-top-bar"][class="footer__topbar"]
 linkedin.com##DIV[class="links-container"]
 linkedin.com##DIV[class="marketing-promo lynda"]
 forexmart.com##IMG[class="img-reponsive logo logo-img logo-con-saf"]
-jne.co.id##IMG[src="http://www.jne.co.id/frontend/images/slider/banner-product.jpg"]
+jne.co.id##IMG[src="http://jne.co.id/frontend/images/slider/banner-product.jpg"]
 cheatcc.com##DIV[class="body-wide-banner"]
 cheatcc.com##DIV[id="main_title"][class="title"]
 kotakgame.com##A[id="bannertheme_left"]
@@ -1224,7 +1234,7 @@ ziddu.com##A[href="https://itunes.apple.com/us/app/zidducloud/id848432645?mt=8"]
 ziddu.com##DIV[class="header-logo-wrap"]
 ziddu.com##DIV[class="share clearfix"]
 wsgf.org##DIV[id="block-block-14"][class="block block-block block-even region-even clearfix"]
-dropbox.com##IMG[src="https://www.dropbox.com/static/images/psychobox.png"]
+dropbox.com##IMG[src="https://dropbox.com/static/images/psychobox.png"]
 filedropper.com##INPUT[name="premium"]
 novaragnarok.com##IMG[src="/themes/nova/img/img/logo_new.png"]
 novaragnarok.com##IMG[src="/themes/nova/img/img/logo.png"]
@@ -1273,7 +1283,7 @@ google.com##DIV[class="gmail-devices flex-container__content"]
 4shared.com##DIV[class="premium"]
 4shared.com##DIV[class="col-md-2 hidden-xs hidden-sm logo-block"]
 tapatalk.com##DIV[id="logo-user"]
-www.novaragnarok.com##[class="logo"]
+novaragnarok.com##[class="logo"]
 merdeka.com##DIV[id="vjs-text-track-display"]
 m.merdeka.com##DIV[id="vjs-text-track-display"]
 cheatcc.com##DIV[id="poll-content"]
@@ -1404,8 +1414,8 @@ bukalapak.com##[class="c-brand c-brand--logo"]
 linkedin.com##[id="ember1186"]
 linkedin.com##[class="mn-abi-form__content--promo"]
 linkedin.com##[class="mn-abi-form__container container-with-shadow"]
-www.4shared.com##[class="footer-button btn-yt hidden-xs pull-right"]
-www.4shared.com##[class="footer-button btn-gp hidden-xs pull-right"]
+4shared.com##[class="footer-button btn-yt hidden-xs pull-right"]
+4shared.com##[class="footer-button btn-gp hidden-xs pull-right"]
 guru3d.com##[class="adblock_top_middle"]
 guru3d.com##[class="logo"]
 lepatek.com##[id="FLASH_VIEW"]
@@ -1733,7 +1743,7 @@ borneopoin.com/images/iconn.png
 *.steepto.com/*
 */syl%2Bpc.png
 */Splash-Geo-Purple-by-Rehayel.jpg
-www.animechiby.com/wp-content/uploads/2014/08/Logo.png
+animechiby.com/wp-content/uploads/2014/08/Logo.png
 */pepperstonepublic/img/content-hero-08.jpg
 */pepperstonepublic/img/content-hero-07.jpg
 */pepperstonepublic/img/content-hero-06.jpg
@@ -1779,7 +1789,7 @@ jualbelipaypalbalance.com/wp-content/themes/MyProduct/images/*
 */onedrive-website-home-media/non-localizable/img/content/personal_module1_bg1.jpg
 spoprod-a.akamaihd.net/files/onedrive-website-home-release-prod_ship-2016-12-05_20161215.001/onedrive-website-home-media/non-localizable/img/*
 */onedrive-website-home-media/non-localizable/img/*
-www.elevenia.co.id/img_11ia/h1_logo_ver2.png
+elevenia.co.id/img_11ia/h1_logo_ver2.png
 firewoodfx.trade/uploads/*.mp4
 firewoodfx.trade/img/firewood-awords.jpg
 firewoodfx.trade/img/background-home.jpg
@@ -1993,8 +2003,8 @@ tapochek.net/images/logo/*
 wwc.nmmfk.xyz/i/*.jpg
 *nmmfk.xyz/*
 zona.ru/img/back-light.*
-www.dll-files.com/assets/img/*.gif
-www.dll-files.com/assets/img/*.png
+dll-files.com/assets/img/*.gif
+dll-files.com/assets/img/*.png
 */apklogo-new.*
 forexwinners.net/wp-content/themes/sahifa/images/patterns/*
 forexwinners.net/*/ad-block.jpg
@@ -2013,7 +2023,7 @@ triv.co.id/*/bg5.*
 triv.co.id/*/bg6.*
 img.gemscool.com/allservice/tos/official/media/download/*.png
 img.gemscool.com/allservice/tos/official/homepage/dashboard/*.jpg
-www.softendo.com/*/logo.swf
+softendo.com/*/logo.swf
 content1req.com/*
 4eacccd99990beed317.com/*
 payclick.com/img/img_increase_bg.*
@@ -2317,8 +2327,8 @@ hitwe.com/*/loginpage/*.jpg
 hitwe.com/*/loginpage/*.png
 hitwe.com/*/loginpage/*.mp4
 blogger.com/about/img/sections/millions/*
-www.nonolive.com/*/images/*.png
-www.nonolive.com/*/images/*.jpg
+nonolive.com/*/images/*.png
+nonolive.com/*/images/*.jpg
 hitwe.com/*/app-screen.png
 lamudi.co.id/static/cms/relaunch%20content/*
 lamudi.co.id/static/cms/static_page/*
@@ -2665,7 +2675,7 @@ secure.registeridm.com/*
 secure.internetdownloadmanager.com/*
 mirror.internetdownloadmanager.com/*
 mirror2.internetdownloadmanager.com/*
-www.internetdownloadmanager.com/*
+internetdownloadmanager.com/*
 r.acdsee.com/*
 validation.sls.microsoft.com/*
 license.bluesoleil.com/*
@@ -2697,7 +2707,7 @@ myawesomecash.com/*
 searchincognito.com/*
 pttsite.com/*
 clksite.com/*
-www.clksite.com/*
+clksite.com/*
 go2cloud.org/*
 kkddlt2f.site
 nullrefer.com/*
@@ -2725,9 +2735,9 @@ gogamego.thewhizproducts.com/*
 thewhizproducts.com/*
 signoredom.com/*
 onclkds.com/*
-www.onclkds.com/*
+onclkds.com/*
 propellerads.com/*
-www.pro/*pellerads.com/*
+pro/*pellerads.com/*
 waggishwinner.bid/*
 appsflybeta.biz/*
 good.appsflybeta.biz/*
@@ -2852,7 +2862,7 @@ tokopedia.net/*/header-main--small.*
 ||miner.pr0gramm.com^$websocket
 ||miner.pr0gramm.com/cryptonight-worker.js
 ||pr0gramm.com/api/
-www.google.com##.gb_g.gb_fa
+google.com##.gb_g.gb_fa
 ###certificateErrorReporting
 ###automaticallyReportInFuture
 soehoe.id##.TagContainer.tagBlock
@@ -2928,7 +2938,7 @@ elevenia.co.id##.btn_wrap
 getpocket.com##.eoy_promotion.item
 getpocket.com##.item_promotion_copy
 pricepony.co.id##.clearfix.ks-share-top.share-container.social-sharing-baseline
-pricepony.co.id/*/themes/*/logo.*$domain=www.pricepony.co.id,image
+pricepony.co.id/*/themes/*/logo.*$domain=pricepony.co.id,image
 instagram.com##._9s4of
 instagram.com##._1qj9z
 elevenia.co.id###gnbApp
@@ -2989,7 +2999,7 @@ alodokter.com##.share-button
 alodokter.com###alodokter-wording-community
 tempo.co##.wrapper.brightcove.player
 tempo.co##.card-type-1.card > .clearfix.wrapper > .col:nth-of-type(1)
-nanokomputer.com##a[href^="http://www.nanokomputer.com/redirect.php"]
+nanokomputer.com##a[href^="http://nanokomputer.com/redirect.php"]
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.item.femail
 dailymail.co.uk##DIV[class="item news"]
@@ -3113,7 +3123,7 @@ kaskus.co.id/*/mark/*/.gif
 kaskus.id/*/mark/*/.jpg
 kaskus.id/*/mark/*/.png
 kaskus.id/*/mark/*/.gif
-kaskus.id/*/images/*/home-logo-n.png$domain=www.kaskus.co.id,image
+kaskus.id/*/images/*/home-logo-n.png$domain=kaskus.co.id,image
 emsc-csem.org##a[href="/Donate/"]
 emsc-csem.org##.ban2
 kaskus.co.id###kk-bpl
@@ -3133,8 +3143,8 @@ google.com##.in-control-tablet
 google.com##.vertical-carousel-item
 google.com##.vertical-carousel-bg
 google.com##.card-success-video
-www.google.com##._LNk
-www.google.co.id##._LNk
+google.com##._LNk
+google.co.id##._LNk
 ##.kno-fb._OPd
 ##._AZr
 ##._hWr._V1j
@@ -3292,7 +3302,7 @@ mail.google.com###drk_settings_icon
 facebook.com##._ihf._4bl9
 bodbot.com##.main_share_button
 bodbot.com##img[src="https://static.bodbot.com/Images/bodbotplus/sub_goal_paywall.png"]
-bodbot.com##a[href="https://www.bodbot.com/Plus.html"]
+bodbot.com##a[href="https://bodbot.com/Plus.html"]
 bodbot.com##img[src="Images/icons/email_circle.png"]
 static.bodbot.com/*/bodbotplus/$image
 bodbot.com###invite_friends_h3
@@ -3413,7 +3423,7 @@ ctdn.com/*/page_banner.png
 infobdg.com##.attachment-category-medio
 infobdg.com##.td-post-source-tags
 infobdg.com##.author-box-wrap
-infobdg.com##a[href="http://www.infobdg.com/v2/"]
+infobdg.com##a[href="http://infobdg.com/v2/"]
 facebook.com###pagelet_growth_expanding_cta
 facebook.com##._33ub
 kompas.com/data/*/inside/images/inside/*$image
@@ -3576,15 +3586,15 @@ tokopedia.com##.jssocials-shares
 tokopedia.com##.jssocials.product-socialholder__button
 tokopedia.com###product-socialholder
 mirrorcreator.com/*/down_a.png
-mirrorcreator.com##a[href^="//www.mirrorcreator.com/fdown.php"]
+mirrorcreator.com##a[href^="//mirrorcreator.com/fdown.php"]
 oboom.com##.logosm
 oboom.com##.yesaccount
 oboom.com###smoozed_button
 oboom.com##.soeasy
 revdl.com##.single-navigation
-userscloud.com##a[href="https://www.videolan.org/vlc/index.html"]
+userscloud.com##a[href="https://videolan.org/vlc/index.html"]
 userscloud.com##.alert-success.alert
-bioskopindo.co##a[href="http://www.pkrace99.tv/"]
+bioskopindo.co##a[href="http://pkrace99.tv/"]
 bioskopindo.co/*/pace-1.gif
 pkrace99.tv/*
 bioskopindo.co##.idmuvi-social-share
@@ -3598,9 +3608,9 @@ openload.co/*/*.webm
 openload.co/*/*.3gp
 openload.co/*/*.gif
 zupimages.net/up/*/*.png
-staticflickr.com/*/*.jpg$domain=www.brmovies.net,image
-staticflickr.com/*/*.jpeg$domain=www.brmovies.net,image
-staticflickr.com/*/*.png$domain=www.brmovies.net,image
+staticflickr.com/*/*.jpg$domain=brmovies.net,image
+staticflickr.com/*/*.jpeg$domain=brmovies.net,image
+staticflickr.com/*/*.png$domain=brmovies.net,image
 blogspot.com/*/banners.jpg$domain=kusonime.com,image
 9xmovie.co/*
 mirrorace.com/themes/*/*.png$domain=mirrorace.com,image
@@ -3615,17 +3625,17 @@ shaanig.se###mv-keywords
 jackettrain.com/*
 shaanig.se##.movieplay
 shaanig.se###iframe-trailer
-tmdb.org/*/*.jpg$domain=www.shaanig.se
-tmdb.org/*/*.png$domain=www.shaanig.se
-tmdb.org/*/*.jpeg$domain=www.shaanig.se
-tmdb.org/*/*.bmp$domain=www.shaanig.se
-tmdb.org/*/*.gif$domain=www.shaanig.se
-youtube.com/*/*.mkv$domain=www.shaanig.se
-youtube.com/*/*.mp4$domain=www.shaanig.se
-youtube.com/*/*.webm$domain=www.shaanig.se
-youtu.be/*/*.mkv$domain=www.shaanig.se
-yyoutu.be/*/*.mp4$domain=www.shaanig.se
-youtu.be/*/*.webm$domain=www.shaanig.se
+tmdb.org/*/*.jpg$domain=shaanig.se
+tmdb.org/*/*.png$domain=shaanig.se
+tmdb.org/*/*.jpeg$domain=shaanig.se
+tmdb.org/*/*.bmp$domain=shaanig.se
+tmdb.org/*/*.gif$domain=shaanig.se
+youtube.com/*/*.mkv$domain=shaanig.se
+youtube.com/*/*.mp4$domain=shaanig.se
+youtube.com/*/*.webm$domain=shaanig.se
+youtu.be/*/*.mkv$domain=shaanig.se
+yyoutu.be/*/*.mp4$domain=shaanig.se
+youtu.be/*/*.webm$domain=shaanig.se
 shaanig.se##.footer-tags
 shaanig.se###logo-footer
 shaanig.se##.mvi-cover
@@ -3654,15 +3664,15 @@ tokopedia.com##.jssocials-shares
 tokopedia.com##.jssocials.product-socialholder__button
 tokopedia.com###product-socialholder
 mirrorcreator.com/*/down_a.png
-mirrorcreator.com##a[href^="//www.mirrorcreator.com/fdown.php"]
+mirrorcreator.com##a[href^="//mirrorcreator.com/fdown.php"]
 oboom.com##.logosm
 oboom.com##.yesaccount
 oboom.com###smoozed_button
 oboom.com##.soeasy
 revdl.com##.single-navigation
-userscloud.com##a[href="https://www.videolan.org/vlc/index.html"]
+userscloud.com##a[href="https://videolan.org/vlc/index.html"]
 userscloud.com##.alert-success.alert
-bioskopindo.co##a[href="http://www.pkrace99.tv/"]
+bioskopindo.co##a[href="http://pkrace99.tv/"]
 bioskopindo.co/*/pace-1.gif
 pkrace99.tv/*
 bioskopindo.co##.idmuvi-social-share
@@ -3676,9 +3686,9 @@ openload.co/*/*.webm
 openload.co/*/*.3gp
 openload.co/*/*.gif
 zupimages.net/up/*/*.png
-staticflickr.com/*/*.jpg$domain=www.brmovies.net,image
-staticflickr.com/*/*.jpeg$domain=www.brmovies.net,image
-staticflickr.com/*/*.png$domain=www.brmovies.net,image
+staticflickr.com/*/*.jpg$domain=brmovies.net,image
+staticflickr.com/*/*.jpeg$domain=brmovies.net,image
+staticflickr.com/*/*.png$domain=brmovies.net,image
 blogspot.com/*/banners.jpg$domain=kusonime.com,image
 9xmovie.co/*
 mirrorace.com/themes/*/*.png$domain=mirrorace.com,image
@@ -3693,17 +3703,17 @@ shaanig.se###mv-keywords
 jackettrain.com/*
 shaanig.se##.movieplay
 shaanig.se###iframe-trailer
-tmdb.org/*/*.jpg$domain=www.shaanig.se
-tmdb.org/*/*.png$domain=www.shaanig.se
-tmdb.org/*/*.jpeg$domain=www.shaanig.se
-tmdb.org/*/*.bmp$domain=www.shaanig.se
-tmdb.org/*/*.gif$domain=www.shaanig.se
-youtube.com/*/*.mkv$domain=www.shaanig.se
-youtube.com/*/*.mp4$domain=www.shaanig.se
-youtube.com/*/*.webm$domain=www.shaanig.se
-youtu.be/*/*.mkv$domain=www.shaanig.se
-yyoutu.be/*/*.mp4$domain=www.shaanig.se
-youtu.be/*/*.webm$domain=www.shaanig.se
+tmdb.org/*/*.jpg$domain=shaanig.se
+tmdb.org/*/*.png$domain=shaanig.se
+tmdb.org/*/*.jpeg$domain=shaanig.se
+tmdb.org/*/*.bmp$domain=shaanig.se
+tmdb.org/*/*.gif$domain=shaanig.se
+youtube.com/*/*.mkv$domain=shaanig.se
+youtube.com/*/*.mp4$domain=shaanig.se
+youtube.com/*/*.webm$domain=shaanig.se
+youtu.be/*/*.mkv$domain=shaanig.se
+yyoutu.be/*/*.mp4$domain=shaanig.se
+youtu.be/*/*.webm$domain=shaanig.se
 shaanig.se##.footer-tags
 shaanig.se###logo-footer
 shaanig.se##.mvi-cover
@@ -3741,8 +3751,8 @@ paypal.com##.custom-hero-editorialtwo
 paypal.com##.theme-background-image-dark
 paypal.com##.theme-background-image
 paypalobjects.com/*/*/editorial/*.jpg
-cloudfront.net/*/bg_hooqtime.jpg$domain=www.hooq.tv,image
-cloudfront.net/*/overlay_carousel.png$domain=www.hooq.tv,image
+cloudfront.net/*/bg_hooqtime.jpg$domain=hooq.tv,image
+cloudfront.net/*/overlay_carousel.png$domain=hooq.tv,image
 supprene.com/*
 inboxace.com/*
 apkdlmod.com##.widget_archive
@@ -3917,12 +3927,12 @@ viva.co.id/*/*.ts
 viva.co.id/*/*.flv
 viva.co.id/*/*.mp4
 viva.co.id##.flex_thumb
-dailymotion.com/*/*.*$domain=www.viva.co.id
+dailymotion.com/*/*.*$domain=viva.co.id
 amazonaws.com/*/article_thumb/*.*$image
 hancinema.net/*/degrade_sidebar.png
 bleepingcomputer.com###after_dl
 bleepingcomputer.com###content_video_html5_api
-vimeo.com/*/*.mp4$domain=www.bleepingcomputer.com
+vimeo.com/*/*.mp4$domain=bleepingcomputer.com
 bleepingcomputer.com##.video_slot
 bleepstatic.com/*/thumb/*.*$image
 bleepingcomputer.com##.bc_news_letter_sidebar
@@ -3940,7 +3950,7 @@ tradeviewforex.com/*/*.mp4
 tradeviewforex.com/*/*.ogv
 tradeviewforex.com/*/img-institutional-spreads/*.*$image
 tradeviewforex.com/*/slider-*.*
-tradeviewforex.com/rhino-report/*/*.*$domain=www.tradeviewforex.com,image
+tradeviewforex.com/rhino-report/*/*.*$domain=tradeviewforex.com,image
 tradeviewforex.com/*/bg-cabinet.png
 tradeviewforex.com/*/software/*.*$image
 tvmarkets.com/*/sterlin-trader-pro.*
@@ -3953,7 +3963,7 @@ tinytake.com/marketing/*/*.*$image
 tinytake.com/*/banner_home.jpg
 upera.co/img/*.jpg
 upera.co/*/themes/*/*.*$image
-*/login-background.jpg$domain=www.upera.co,image
+*/login-background.jpg$domain=upera.co,image
 dropboxstatic.com/static/*/dropins/*.png
 grammarly.com/*/background.mp4
 ##._3mQIn
@@ -3991,16 +4001,16 @@ gingersoftware.com##[src="chrome-extension://kdfieneakcjfaiglcfcgkidlkmlijjnh/wr
 ##.plus-value
 ##.plus-label
 tp-link.com/banner-*.*$image
-wsj.net/*/static/*/*.*$domain=www.marketwatch.com,image
+wsj.net/*/static/*/*.*$domain=marketwatch.com,image
 marketwatch.com##.app__image
-futurecdn.net/*-1000-80.*$domain=www.techradar.com,image
+futurecdn.net/*-1000-80.*$domain=techradar.com,image
 icecreamapps.com/*/topbg*.*$image
 icecreamapps.com/*/topframe-*.*$image
 amazonaws.com/*/nitro-reader/*.png
 gonitro.com/images/*/nitro-reader/*.*$image
 kuyhaa.me##.user
 kuyhaa.me##.btngreen
-blogspot.com/*/dw1.png$domain=www.kuyhaa.me,image
+blogspot.com/*/dw1.png$domain=kuyhaa.me,image
 kaskus.id/*/hot_thread/*.*$image
 kaskus.co.id###recommended-for-you
 kaskus.co.id##.c-recommended--wrapper
@@ -4089,7 +4099,7 @@ armorgames.com,mmohuts.com,newgrounds.com,onrpg.com,silvergames.com##a[href*="mm
 ||gamingaffiliation.com^$third-party
 @@||f1g.fr/*/adsense.js$script
 @@||static.lexpress.fr/*/ads.$script,stylesheet
-www.rtl.fr###modal-warning
+rtl.fr###modal-warning
 ||christianpost.com/js/plugins/sticky/sticky.js
 vaughnlive.tv##.abvsDynamic
 ||file-upload.net^$subdocument
@@ -4144,8 +4154,8 @@ dailycaller.com##[id^="outbrain_widget"]
 seasonvar.ru##.td-for-left-block
 seasonvar.ru###b_sl_51
 ||paywall.folha.uol.com.br/wall.jsonp?callback=paywall.inicio$domain=blogfolha.uol.com.br|educacao.uol.com.br|folha.uol.com.br
-www.uol##.content-lightbox
-www.uol##.overlay-lightbox
+uol##.content-lightbox
+uol##.overlay-lightbox
 @@||anigod.com/js/ads.js
 anigod.gryfindor.com#@#.ads-link
 ||newartspy.link^
@@ -4356,7 +4366,7 @@ ign.com###king
 ||opencarry.org/wp-content/uploads/*468x165$image
 opencarry.org##[id^=ad_global]
 ||fux.com/*banner$image
-||dl.www.speedvid.net^$popup
+||dl.speedvid.net^$popup
 ||clubedohardware.com.br/cdn-cgi/apps/head/$script
 yourbittorrent.com##a[href*=".t0r.download/torrent/"]
 ||sun.torrentfunk.com^$subdocument
@@ -4413,14 +4423,14 @@ nnm-club.me##[id*=Composite]
 nnm-club.me##.request
 spaste.com##h5 > a[href^="http://amzn.to/"]
 spaste.com##h5 > a[href^="http://bit.ly/"]
-hentai2read.com##a[href^="//www.nutaku.net/"]
+hentai2read.com##a[href^="//nutaku.net/"]
 ||rulu.co/cdn-cgi/apps/head/$script
 ||acloudimages.com^$script,domain=kimcartoon.me
 ||d3q33rbmdkxzj.cloudfront.net^$image,domain=kimcartoon.me
 ||dailyuploads.net/images/redbuttonx.png$image
 dailyuploads.net##a[href^="http://hh-btr.com/"]
 fbstream.io,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vipleague.*##a[href^="http://streamsign.me/"]
-fbstream.io,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vipleague.*##a[href^="http://www.movie4all.co/"]
+fbstream.io,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vipleague.*##a[href^="http://movie4all.co/"]
 fbstreams.me,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vipleague.*##script + [id][style]
 livecamtv.me,realcam.me,seelive.me##style + [id][style]
 telegraph.co.uk##.adblocker-message
@@ -4469,7 +4479,7 @@ cooking.nytimes.com##[class^="nytc---modal-window"]
 ||fqsbi.com^$third-party
 ||ibb.co/*/rsz_banner2.jpg$image,domain=dreamfilmhd.info
 liens-telechargement.com##.trtbl
-liens-telechargement.com##a[href^="https://www.dl-protecte.com/"]
+liens-telechargement.com##a[href^="https://dl-protecte.com/"]
 ||adscpm.site^$third-party
 @@||freebytecoin.cf^$generichide
 ||adpixo.com^$third-party
@@ -4596,7 +4606,7 @@ porn.com##[class$=-zne]
 @@||ondemandkorea.com^$generichide
 ||porntube.com/*banner$image
 ||gotporn.com/*/exo-loader/*$script
-gotporn.com##a[href^="https://www.gotporn.com/click.php"]
+gotporn.com##a[href^="https://gotporn.com/click.php"]
 ddmix.net###publicidaddescarga1
 ddmix.net##a[href^="//s.click.aliexpress.com/"]
 ||i.imgur.com/$image,domain=ddmix.net
@@ -4669,7 +4679,7 @@ anyfreeporn.com##.rmedia
 ||avgle.com/avideos.php
 ||avgle.com/images/av/
 @@||ads.exosrv.com^$script,domain=avgle.com
-avgle.com##a[href^="http://www.poweredbyliquidfire.mobi/redirect"]
+avgle.com##a[href^="http://poweredbyliquidfire.mobi/redirect"]
 avgle.com###blocked-if
 avgle.com###aoverlay
 @@||mdsrwdassets-a.akamaihd.net^$xmlhttprequest,script,other,domain=telecinco.es|cuatro.com
@@ -4792,7 +4802,7 @@ fakeporn.tv##img[src^="/bb/fake"]
 @@||fakeporn.tv/player/$subdocument
 @@||jhub.pw^$generichide
 imgmonkey.com##A[href$=".html"][rel="nofollow norefferer noopener"]
-pornodeblack.com##a[href^="http://www.pornodeblack.com/link/"]
+pornodeblack.com##a[href^="http://pornodeblack.com/link/"]
 vivud.com##.inplayer_banners
 @@||linkurl.org^$generichide
 ur.ly##a[href^="http://ur.ly/cnt.php"]
@@ -4921,12 +4931,12 @@ vipracing.tv##.in-video-adds.row
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=beinsports.com
 beinsports.com##[id^=div-gpt-ad]
 5movies.to##[id*="MarketGidWrap"]
-zupload.me##a[href="https://www.9xyoutube.com"]
+zupload.me##a[href="https://9xyoutube.com"]
 ||dwf6crl4raal7.cloudfront.net^$script,third-party
 ||defpush.com^$third-party
 @@||reevown.com^$generichide
 ||shaanig.se/*banner$image
-shaanig.se##a[href="https://www.shaanig.se/advertising/"]
+shaanig.se##a[href="https://shaanig.se/advertising/"]
 @@||fwmrm.net/ad/$script,domain=dplay.dk
 ||dniadops-a.akamaihd.net/video-assets/*.mp4$media,domain=dplay.dk
 gsurl.in,gsurl.me,g5u.pw##A[href$=".html"][rel="nofollow norefferer noopener"]
@@ -4984,7 +4994,7 @@ gjirafa.com##[id^=an-holder]
 ||s3.amazonaws.com/dmas-public/revcontent/bundle.js
 adshorte.com###frame
 pcworld.com###amazon-bottom-widget
-nmn900.com##a[href^="https://www.pinbo.es/anuncios"]
+nmn900.com##a[href^="https://pinbo.es/anuncios"]
 oturl.com###myModal
 @@*$generichide,domain=eurosport.bg|eurosport.co.uk|eurosport.com|eurosport.cz|eurosport.de|eurosport.dk|eurosport.fi|eurosport.fr|eurosport.hu|eurosport.nl|eurosport.no|eurosport.pl|eurosport.pt|eurosport.ro|eurosport.rs|eurosport.ru|eurosport.se
 befap.com##.row-middle
@@ -5022,7 +5032,7 @@ embedtvseries.com###banner
 720pizle.com###reklamarkaplan
 1movies.to###no_po_share
 @@||tinypaste.cc^$generichide
-hentaigo.com##a[href*="//www.nutaku.net/signup/"]
+hentaigo.com##a[href*="//nutaku.net/signup/"]
 ||idsly.com/downlaod1.png$image
 ||myownads.space^
 ||adconity.com^$third-party
@@ -5033,7 +5043,7 @@ streamfare.com##[id^=wb_AdText]
 @@||realkana.com^$generichide
 @@||thebookee.net^$generichide
 ?zoneid=$subdocument,domain=updatetube.com
-pornqd.net##a[href^="http://www.poweredbyliquidfire.mobi/"]
+pornqd.net##a[href^="http://poweredbyliquidfire.mobi/"]
 pornqd.net###preroll
 ||imageweb.ws/*.gif$image
 imageweb.ws##a[href^="http://refer.ccbill.com/"]
@@ -5055,7 +5065,7 @@ dirpy.com###dirpy-news
 @@||google-analytics.com^$domain=avianca.com|jackbox.tv|newegg.com|bikstok.sonymusicshop.dk
 @@||google-analytics.com/analytics.js$script,domain=burodecredito.com.mx|vd.nl
 @@||google-analytics.com/plugins/$script
-@@||www.google-analytics.com/ga.js$script,domain=santander.com.mx|tv2.no
+@@||google-analytics.com/ga.js$script,domain=santander.com.mx|tv2.no
 @@||google-analytics.com/urchin.js$script,domain=live.euroleague.net
 @@||adf.ly^$~third-party
 @@||adf.ly^$domain=j.gs
@@ -5082,7 +5092,7 @@ dirpy.com###dirpy-news
 @@/google-analytics-dashboard
 charlie.strim.io#@##tweets
 ovh.strim.io#@##tweets
-@@||cdn.turner.com/ads/nba/adfuel.js$domain=www.nba.com
+@@||cdn.turner.com/ads/nba/adfuel.js$domain=nba.com
 @@||yui.yahooapis.com^
 @@||top.mail.ru^$~third-party
 @@||css.washingtonpost.com/*/ads.css$stylesheet,~third-party
@@ -5102,11 +5112,11 @@ ovh.strim.io#@##tweets
 @@||viewpoint.com^$~third-party
 @@||i.cdn.turner.com/xslo/cvp/ads/freewheel/bundles/2/*$domain=cnn.com
 @@||woopra.com^$~third-party
-@@||monetate.net/*$script,domain=www.newegg.com
+@@||monetate.net/*$script,domain=newegg.com
 @@||googleads.g.doubleclick.net/ads/preferences/getcookie$popup,domain=myaccount.google.com
 @@||img.echosting.cafe24.com/design$image,domain=jolse.com
 @@||imasdk.googleapis.com/js/core$subdocument,domain=globalnews.ca
-@@||partner.googleadservices.com/gpt/$script,domain=www.merriam-webster.com
+@@||partner.googleadservices.com/gpt/$script,domain=merriam-webster.com
 @@||ssl.cdn-redfin.com/*/redfin/common/analytics/PixelTracking.js$script,domain=redfin.com
 marketwatch.com#@##ad_DisplayAd1
 marketwatch.com#@##ad_DisplayAd2
@@ -5355,7 +5365,7 @@ descargatelocorp.com##div[class*="cool_ramka"]
 ||lukkr.com/website/pf.js
 ||cloudfront.net^$domain=adbull.me|shink.in|dbzsuper.tv|croco.site|adshorte.com|pasteca.sh|cloudyfiles.org|cuturlink.com|wateranik.com|eagerse.com|estrenos10.com|palimas.tv|srt.am
 filez.tv###adblockinfo
-||tribdss.com/meter/assets$script,domain=www.latimes.com
+||tribdss.com/meter/assets$script,domain=latimes.com
 *$xmlhttprequest,domain=thewindowsclub.com
 @@||disquscdn.com^$script,domain=thewindowsclub.com
 @@|https://disqus.com/next/config.js$domain=thewindowsclub.com
@@ -5401,7 +5411,7 @@ telegraph.co.uk##.adblocker-message
 @@||comicincorrect.wpengine.netdna-cdn.com/wp-content/uploads/
 steamcustomizer.com###sadcat
 steamcustomizer.com##.notice.support-notice
-shqiperiatv.com,albtvhd.com,tvshqiphd.com,www.balkanweb.com,cdn.livestream.com,livestream.artmotion.al,shqip-tv.info##table[id^='blockblock']
+shqiperiatv.com,albtvhd.com,tvshqiphd.com,balkanweb.com,cdn.livestream.com,livestream.artmotion.al,shqip-tv.info##table[id^='blockblock']
 /magnific-popup.js/*$domain=transparentcalifornia.com
 @@||yamvideo.com/pop1/jwplayer.js$domain=javsex.net
 newyorker.com##iframe[src*="/wp-content/assets/"]
@@ -5824,7 +5834,7 @@ pic4you.ru,pic5you.ru##.centerdiv
 forum.thgtr.com##.block_uyari
 exashare.com,dowed.info###player_mgs
 exashare.com,dowed.info###player_mgo
-exashare.com##[href="http://www.videohube.eu/script/url.php?c=ep"]
+exashare.com##[href="http://videohube.eu/script/url.php?c=ep"]
 @@||exashare.com/ici.html$subdocument
 mydisc.net#@#.ad_1
 mydisc.net#@#.ad_2
@@ -6340,7 +6350,7 @@ londynek.net###abp
 kinoman.tv##IMG[src="http://static.kinoman.tv/assets/img/vip-info.png?v"]
 ppe.pl###abl
 shinden.pl#@#.AD-RC-300x250
-@@||www.smartadserver.com/config.js?$script,domain=manga-sanctuary.com
+@@||smartadserver.com/config.js?$script,domain=manga-sanctuary.com
 @@||r.sascdn.com/diff/js/smart.js$script,domain=manga-sanctuary.com
 @@/advertising.js$script,domain=itespresso.fr
 xxx-image.com###footer > font > b
@@ -6390,7 +6400,7 @@ hentenaar.com#@#.adsbygoogle
 @@||securenetsystems.net/*/scripts/adv.js$script,~third-party
 @@||jeu-concours.biz/show_ads.js
 @@||hugo.sieradz.com.pl^$script
-@@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,script,domain=www.terrarium.com.pl
+@@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,script,domain=terrarium.com.pl
 @@||6play.fr/media/js/publicite.js
 @@||animeheaven.eu/*/showads$script
 skyrock.com##IMG[src*="adblock/pave.png"]
@@ -6425,7 +6435,7 @@ rlsbb.movie7share.net##.information > [color="red"] > H3
 samehadaku.net#@##adsense
 @@||terrarium.pl/public/js/showads.js$script
 @@||optyczne.pl/adsense.js$script
-@@||www.epiotrkow.pl/js/adv.reklama.js$script
+@@||epiotrkow.pl/js/adv.reklama.js$script
 @@||ads.stickyadstv.com/www/delivery/swfIndex.php?$xmlhttprequest,domain=wakanim.tv
 hayan.tv#@##uzcrsite
 @@||hayan.tv/adp.htm
@@ -6593,7 +6603,7 @@ hdmovie14.net#@#.text-ads
 hdmovie14.net#@#.text-ad-links
 @@||ops.prismamediadigital.com/js/advertisement.js$xmlhttprequest,domain=voici.fr
 ||live.prismamediadigital.com/ops/TRA/ab_ban/$image,domain=voici.fr
-@@||www.voici.fr/ads.js|$xmlhttprequest
+@@||voici.fr/ads.js|$xmlhttprequest
 turkleech.com###h237
 leo.org##div.floatRight.p.tf1
 joyreactor.cc##div#sidebar
@@ -6715,8 +6725,8 @@ purepc.pl#@#[class$="reklama"]
 @@||izzylaif.com/en/js/ad$script,~third-party
 game4free.nl#@##adsense
 @@||spieletipps.de/static/ads/adb_detector.gif$image
-spieletipps.de##[src^="http://www.spieletipps.de/sp/"]
-spieletipps.de##a[href^="http://www.spieletipps.de/sp/"]
+spieletipps.de##[src^="http://spieletipps.de/sp/"]
+spieletipps.de##a[href^="http://spieletipps.de/sp/"]
 fullmatchesandshows.com#@#.adsbox
 fullmatchesandshows.com#@#.adsense
 fullmatchesandshows.com#@#.adslot
@@ -7056,10 +7066,10 @@ yafud.pl###adsense_banner_top
 ||getapplicationmy.info^
 ||doremido.com^
 ||speednetwork14.com^
-##A[href^="http://www.liveadexchanger.com/a/display.php"]
+##A[href^="http://liveadexchanger.com/a/display.php"]
 ##A[href^="http://share.payoneer-affiliates.com/a/clk/"]
 ##A[href="http://goo.gl/jQ9bcz"]
-##A[href^="http://www.yourfilezone.com/play?lng="]
+##A[href^="http://yourfilezone.com/play?lng="]
 ##A[href^="https://action.metaffiliation.com/trk.php?"]
 ##A[href^="http://action.metaffiliation.com/trk.php?"]
 ##A[href^="http://get.d3b3e6340.website/as/clk?id="]
@@ -7230,18 +7240,18 @@ fenopy.se##[rel="nofollow external"][href^="/ddl/"]
 seedpeer.me###body > #pageTop + * + #headerbox + TABLE[width="100%"]
 mininova.org###content > #adspot-a + .maintable
 zetorrents.com##A[href^="http://acces.directionplaisir.com/a.php?"]
-zetorrents.com##A[href^="http://www.insta-cash.net/tds/?"]
+zetorrents.com##A[href^="http://insta-cash.net/tds/?"]
 /js/ec_connectorDelivery.js$script,domain=cpasbien.io
 rarbg.com##A[href^="/w_d_adpub.php?id="]
 emule-island.ru##.newsgroup
-emule-island.ru##.lastnews + A[href^="http://www.downloadmr.com/dmr/download/"]
+emule-island.ru##.lastnews + A[href^="http://downloadmr.com/dmr/download/"]
 bts.to##.dl_blue[href^="/goto_.php?url="]
 torrent-finder.info###addon_info
 poringapic.com##IMG[src^="http://poringapic.com/image.php?"]
 torrentproject.com##A[href^="//torrentproject.com/out/?"]
 ||torrent-avenue.com/popup.js
-torrent-francais.com##A[onclick^="this.href='http://www.FriendlyDuck.com/AF_TA/rel/"]
-t411.me##IMG[src="http://www.t411.me/images/external/usenet.jpg"]
+torrent-francais.com##A[onclick^="this.href='http://FriendlyDuck.com/AF_TA/rel/"]
+t411.me##IMG[src="http://t411.me/images/external/usenet.jpg"]
 t411.me##.ads
 ||uiqatnpooq.com/0f8b73d477b554394e23077935e1fff4.js$script,domain=extratorrent.cc
 preemlinks.com#@##divads
@@ -7270,7 +7280,7 @@ referencemega.com###hebdotop_t
 keepfiles.fr###shadow
 turkdown.com###duyuru
 ||nefroto.net^$script,domain=dada44230.fr
-generatupremium.biz##[href="http://www.hostunder.net/windows-rdp/"]
+generatupremium.biz##[href="http://hostunder.net/windows-rdp/"]
 @@||generatorlinkpremium.com/js/ads.js$script
 generatorlinkpremium.com##.thirdsky
 generatorlinkpremium.com##.secondsky
@@ -7293,7 +7303,7 @@ megafilmeshd.net###ad2
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
 live.gtcaster.com##[id^="adc"]
 live.gtcaster.com###bbb
-tous-sports.tv##IMG[src="http://www.tous-sports.tv/images/blanccloses.png"]
+tous-sports.tv##IMG[src="http://tous-sports.tv/images/blanccloses.png"]
 hdcastream.com###closeFrame_banner
 hdcastream.com###closeFrame1
 btvsports.com###ai_tapar
@@ -7320,7 +7330,7 @@ tugastream.com###closediv
 antena24.com##[id^="layer"]
 thesporttv.eu,sporttvhdmi.com##[id^="ad_tlvmedia-"]
 channel1.livesportshd.us###ai_tapar_content
-sportvgratis1.com##IMG[src^="http://www.pt.vigour-europe.com/"]
+sportvgratis1.com##IMG[src^="http://pt.vigour-europe.com/"]
 sportvgratis1.com###eplayer
 tvrojadirecta.com##IMG[src="/close.gif"]
 limaenvivo.com##IMG[title="close"]
@@ -7409,7 +7419,7 @@ adcast.tech,adcast.site##.mask.adblock
 sharedir.com##IMG[src="http://premiumdl4.me/rseimages/rse_banner64_3.png"]
 filetram.com###triangle-border
 filediva.com##.download_top
-filediva.com##A[href*="http://www.insta-cash.net/tds/"]
+filediva.com##A[href*="http://insta-cash.net/tds/"]
 fileshut.biz##.download_item2
 downloadnow.net##.results-premium.results-premium__top.holder-padding
 downloadsharedfilez.com##A[href^="http://epnredirect.ru/redirect/cpa/"]
@@ -7516,7 +7526,7 @@ mms.kotaku.com/*.*$script
 mms.kotaku.com/*.*$xmlhttprequest
 ||ladnydom.pl/pub/ips/*.*
 ||ladnydom.pl/aliasy/ladnydom/adblock_prompt.htm
-@@||cloudvideoplatform.com/advert.jpg$image,domain=www.10.tv
+@@||cloudvideoplatform.com/advert.jpg$image,domain=10.tv
 perveden.com###topBoxContainer+div
 @@||vidoza.net/js/ads.js$script
 @@||vidoza.net/js/pop.js$script
@@ -7577,7 +7587,7 @@ youtube.com/embed/*$domain=lia.hukumonline.com
 lia.hukumonline.com##.embed-responsive
 hukumonline.com/*/bubble-01.jpg
 hukumonline.com/*/bubble-02.jpg
-yimg.com/uu/api/res/*.webp$domain=www.yahoo.com,image
+yimg.com/uu/api/res/*.webp$domain=yahoo.com,image
 suara.com/banner/*/*.*
 suara.com/*/336x188/*/*.*$image
 suara.com##.post-thumb
@@ -7615,10 +7625,10 @@ linkedin.com##.mn-abi-form-v2__container
 linkedin.com##.cp-wrapper-bg
 spellchecker.net/*/images/Popup-*.*$image
 cloudfront.net/*/300600.gif
-spellchecker.net##[href^="https://www.grammarly.com/"]
+spellchecker.net##[href^="https://grammarly.com/"]
 spellchecker.net##.resource-social
 spellchecker.net##.social-share
-spellchecker.net##[href="https://www.webspellchecker.net"]
+spellchecker.net##[href="https://webspellchecker.net"]
 facebook.com/plugins/page.php$domain=mmoindo.club,subdocument
 ea-dev.com/*/slide1.*$image
 ea-dev.com/*/slide2.*$image
@@ -7634,7 +7644,7 @@ mp3im.org###banner-top
 mp3pn.info###banner-top
 mp3im.org/i/*/*.*$subdocument
 mql5.com##[href^="https://twitter.com/intent/tweet"]
-mql5.com##[href^="https://www.facebook.com/sharer/sharer.php"]
+mql5.com##[href^="https://facebook.com/sharer/sharer.php"]
 mql5.com##.soc-icons_fb
 mql5.com##.soc-icons_tw
 envato-static.com/*/cross-promos/*.*$image
@@ -7663,8 +7673,8 @@ pstatic.net/cmstatic/*/intro/*.*$image
 medium.com/*/1*lQWWgHf-jUvQVEyAKQLIkw@2x.png
 conformingtojesus.com/banner-*.*$image
 conformingtojesus.com/*/biblical_teachings-christian_church_for_all_nations.jpg
-olark.com/jsclient/*.js$domain=www.conformingtojesus.com
-getclicky.com/*/youtube.js$domain=www.conformingtojesus.com
+olark.com/jsclient/*.js$domain=conformingtojesus.com
+getclicky.com/*/youtube.js$domain=conformingtojesus.com
 conformingtojesus.com##.socialshare
 conformingtojesus.com/slides/*.*$image
 jesusalive.cc/Acceptjesus.jpg
@@ -7675,10 +7685,10 @@ gridoto.com##.tags
 gridoto.com##.terpopuler__numb
 gridoto.com##.news-list__thumb
 gridoto.com##.read__left
-dinomarket.com/*/btn_share_*.*$domain=www.dinomarket.com,image
+dinomarket.com/*/btn_share_*.*$domain=dinomarket.com,image
 ortax.org/*/iklan/*.*$image
 ortax.org/*/bg_splash.png
-makerfest.id/*/makers/*.*$domain=www.makerfest.id,image
+makerfest.id/*/makers/*.*$domain=makerfest.id,image
 kompas.com/data/photo/*/*.*$image
 kompas.com##[href="https://art.kompas.com/artwork/107/klik-dan-bagikan"]
 kompas.com/crop/*/230x153/*/*.*$domain=indeks.kompas.com,image
@@ -7732,9 +7742,9 @@ blogspot.com/*/*.*$domain=skidrowcodex.net,image
 skidrowcodex.net##.rfwbs_navi
 fxjunction.com/images/laptop_orig.png$image
 fxjunction.com/images/homepage/background.jpg$image
-youtube.com/embed/*$domain=www.fxjunction.com,subdocument
-c-dn.net/*/2svTwV.jpg$domain=www.dailyfx.com,image
-ytimg.com/vi/*/mqdefault.*$domain=www.youtube.com,image
+youtube.com/embed/*$domain=fxjunction.com,subdocument
+c-dn.net/*/2svTwV.jpg$domain=dailyfx.com,image
+ytimg.com/vi/*/mqdefault.*$domain=youtube.com,image
 ytimg.com/vi/*/mqdefault.*$domain=m.youtube.com,image
 deskgram.net##div.ad.post-box
 deskgram.net##.ads
@@ -7747,7 +7757,7 @@ deviantart.net/*/peace_out_fella.gif
 deviantart.com###oh-menu-upgrade
 deviantart.com##.iconset-upsell
 deviantart.com##[src="https://st.deviantart.net/cart/core/user-symbol-core.svg"]
-deviantart.com##[src="https://www.deviantart.com/core-membership/?point=stats"]
+deviantart.com##[src="https://deviantart.com/core-membership/?point=stats"]
 deviantart.net/share/*.*$domain=forum.deviantart.com,image
 deviantart.net/*/bbg.gif$image
 forum.deviantart.com##.social
@@ -7763,7 +7773,7 @@ seputarforex.com/*/header/*.*$image
 seputarforex.com/*/thumbnail/*/*.*$image
 seputarforex.com##.need-share-button_link
 seputarforex.com##.need-share-button_link-box
-facebook.com/*/plugins/*$domain=www.seputarforex.com
+facebook.com/*/plugins/*$domain=seputarforex.com
 seputarforex.com/*/emoticon/*.*$image
 seputarforex.com##.sf-respon-pc
 fxtradingrevolution.com/*/background-images/*.*$image
@@ -7771,7 +7781,7 @@ axiory.com/*/header-*.*$image
 tokopedia.com##.article-share-button
 tokopedia.com##.article-share
 tokopedia.net/*/*-*-bg.*$image
-videos.dailymail.co.uk/video/*/*.mp4$domain=www.dailymail.co.uk
+videos.dailymail.co.uk/video/*/*.mp4$domain=dailymail.co.uk
 rackcdn.com/*/background2.*$domain=act.greenpeace.org,image
 rackcdn.com/*/background1.*$domain=act.greenpeace.org,image
 rackcdn.com/*/background2.*$domain=greenpeace.org,image
@@ -7844,10 +7854,10 @@ birminghammail.co.uk/*/ALTERNATES/*.*$image
 thewrap.com/*/themes/*/background_blur.jpg
 thewrap.com/*/background-*.*$image
 apkmania.live###BlogArchive1
-ggpht.com/*-*c=w900$domain=www.apkmania.live,image
-facebook.net/*/sdk.js$domain=www.apkmania.live
-facebook.com/*/sdk.js$domain=www.apkmania.live
-cloudflare.com/*/jquery.mousewheel.min.js$domain=www.apkmania.live
+ggpht.com/*-*c=w900$domain=apkmania.live,image
+facebook.net/*/sdk.js$domain=apkmania.live
+facebook.com/*/sdk.js$domain=apkmania.live
+cloudflare.com/*/jquery.mousewheel.min.js$domain=apkmania.live
 apkmania.live###BlogArchive1_ArchiveList
 amazonaws.com/*/bg-capitol.mp4
 amazonaws.com/*/bg-capitol.ts
@@ -7861,7 +7871,7 @@ yahoo.com##.share-button-group
 yahoo.com##.bottom-docked-container
 yahoo.com##.modal-side-sharebuttons
 yahoo.com##.canvas-share-buttons
-yimg.com/*/http://media.zenfs.com/*.*$domain=www.yahoo.com,image
+yimg.com/*/http://media.zenfs.com/*.*$domain=yahoo.com,image
 yahoo.com##.Mb\(40px\)
 yahoo.com##.Bxsh\(discussionFlyoutBoxShadow\)
 yahoo.com##.Cur\(p\)
@@ -7888,9 +7898,9 @@ mirrorace.com###share
 docsconvert.club/*.*
 9amq5z4y1y.com/*.*
 forbes.com##.vestpocket
-manifest.prod.boltdns.net/*/*.ts$domain=www.forbes.com
-manifest.prod.boltdns.net/*/*.mp4$domain=www.forbes.com
-zencdn.net/*/vtt.global.min.js$domain=www.forbes.com
+manifest.prod.boltdns.net/*/*.ts$domain=forbes.com
+manifest.prod.boltdns.net/*/*.mp4$domain=forbes.com
+zencdn.net/*/vtt.global.min.js$domain=forbes.com
 forbes.com/*/*.ts
 forbes.com/*/*.mp4
 forbes.com##.vjs-ima3-autoplay
@@ -7921,12 +7931,12 @@ hiapphere.com##.stBubble
 sharethis.com/*/images/*.*
 hiapphere.com/*/r_box_bg.gif
 hiapphere.com##.J_card
-twitter.com/widgets/*.*$domain=www.hiapphere.com,subdocument
+twitter.com/widgets/*.*$domain=hiapphere.com,subdocument
 twitter.com/widgets/*.*$domain=m.hiapphere.com,subdocument
 hiapphere.com##.fb-like
 hiapphere.com##.fb_iframe_widget
 hiapphere.com##.fb-like-box
-youtube.com/*.*$domain=www.allfreeapk.com
+youtube.com/*.*$domain=allfreeapk.com
 douploads.com###sharebuttons
 douploads.com##.socialmedia
 apko.org##.heateorSssSharingSvg
@@ -7964,14 +7974,14 @@ apk.tools##.socialicon
 unlockapk.com/*/*.*$image
 zukxd6fkxqn.com/*
 apkcrusher.com##.twitter-follow-button
-imtxwy.com/*/body-bg.jpg$domain=www.ragnaroketernallove.com,image
+imtxwy.com/*/body-bg.jpg$domain=ragnaroketernallove.com,image
 novaragnarok.com/*/headerBg.*$image
 novaragnarok.com/*/headerRender.*$image
-x-legend.com/*/bg-*.*$domain=www.x-legend.com,image
-x-legend.com/*/bg_*.jpg$domain=www.x-legend.com,image
+x-legend.com/*/bg-*.*$domain=x-legend.com,image
+x-legend.com/*/bg_*.jpg$domain=x-legend.com,image
 infocenter.support/*
 apk4free.net##.relatedthumb
-##[href="https://www.happymod.com"]
+##[href="https://happymod.com"]
 apkpure.com##.iframe_download
 modapkdl.io##.rd-share-post
 modapkdl.io##.rd-share-social
@@ -7998,8 +8008,8 @@ cloudfront.net/7607bc8563ac28b8631dbc5867d672ee.jpg$domain=bitly.com,image
 omahforex.com/*/profil-weltrade.jpg
 omahforex.com/*/*-bg-*.*$image
 omahforex.com/*/themes/*/*-bg.*$image
-omahforex.com/*/popup-*.*$domain=www.omahforex.com,image
-omahforex.com/*/tickmil_banner.*$domain=www.omahforex.com,image
+omahforex.com/*/popup-*.*$domain=omahforex.com,image
+omahforex.com/*/tickmil_banner.*$domain=omahforex.com,image
 clubcooee.com/*/lp-hero-*.*$image
 clubcooee.com/*/*.webm
 clubcooee.com/*/*.ts
@@ -8020,13 +8030,13 @@ mql5.com/sh/*/main_screen_min.*$image
 mql5.com/sh/*/bg__bottom_min.*$image
 mql5.com/sh/*/wave_min.$image
 mql5.com/sh/51b7501e7d556b315df04dd5150454f6/51b7501e7d556b315df04dd5150454f6.jpg
-youtube.com/*/*.mp4$domain=www.financialjuice.com
-youtube.com/*/*.mkv$domain=www.financialjuice.com
-youtube.com/*$domain=www.financialjuice.com
-youtu.be/*$domain=www.financialjuice.com
+youtube.com/*/*.mp4$domain=financialjuice.com
+youtube.com/*/*.mkv$domain=financialjuice.com
+youtube.com/*$domain=financialjuice.com
+youtu.be/*$domain=financialjuice.com
 financialjuice.com###parentVideoIframe
 marketwatch.com##.social-button
-wsj.net/*/backgrounds/mobile_devices.png$domain=www.marketwatch.com,image
+wsj.net/*/backgrounds/mobile_devices.png$domain=marketwatch.com,image
 marketwatch.com##.share-icons
 marketwatch.com/*/MWimages/*.*$image
 marketwatch.com/*/scrim_*.*$image
@@ -8047,7 +8057,7 @@ ridingintractable.com/*.*
 ridingintractable.com##main
 ridingintractable.com##.container
 thritingcontail.*/*.*
-disqus.com/*$domain=www.apkmirror.com,subdocument
+disqus.com/*$domain=apkmirror.com,subdocument
 ouo.*/*/bg-*.*$image
 ouo.*/*/background/*.*$image
 evga.com/*/homebanner/*.*$image
@@ -8057,17 +8067,17 @@ weltrade.*/*/US-Block.png$image
 pages.oanda.com/*/*.jpg$domain=pages.oanda.com,image
 oanda.com/*/*-banner-background-*.*$image
 wordpress.com##.form-phone-input
-wp.com/*/hero-*.*$domain=www.wordpress.com,image
-wp.com/*/*-devices.*$domain=www.wordpress.com,image
-wp.com/*/media/*.*$domain=www.wordpress.com,image
+wp.com/*/hero-*.*$domain=wordpress.com,image
+wp.com/*/*-devices.*$domain=wordpress.com,image
+wp.com/*/media/*.*$domain=wordpress.com,image
 wp.com/*/hero-*.*$domain=id.wordpress.com,image
 wp.com/*/*-devices.*$domain=id.wordpress.com,image
 wp.com/*/media/*.*$domain=id.wordpress.com,image
 wp.com/*/hero-*.*$domain=wordpress.com,image
 wp.com/*/*-devices.*$domain=wordpress.com,image
 wp.com/*/media/*.*$domain=wordpress.com,image
-/*/themes/*/hero.*$domain=www.fransallen.com,image
-/*/themes/*/hero.*$domain=www.staticaly.com,image
+/*/themes/*/hero.*$domain=fransallen.com,image
+/*/themes/*/hero.*$domain=staticaly.com,image
 cdn.staticaly.com/*/wpinter.com/*/header-*.*$domain=wpinter.com,image
 wpinter.com/*/header-*.*$image
 upwork.com/ab/assets/*/*-desktop.*$image
@@ -8098,12 +8108,12 @@ apkpure.com##.tag
 responsinator.com##.jobAd
 apkpure.*/*/market_center.png
 downloadatoz.com/static/*/bg-*.*$image
-blogspot.com/*/animovi.*$domain=www.animovi.com,image
-facebook.com/plugins/page.php$domain=www.animovi.com
+blogspot.com/*/animovi.*$domain=animovi.com,image
+facebook.com/plugins/page.php$domain=animovi.com
 animovi.com##.Pagefb
-tlk.io##[href="https://www.patreon.com/tlkio"]
+tlk.io##[href="https://patreon.com/tlkio"]
 tlk.io##[href="http://tlk.io"]
-blogspot.com/*/rajawalitv4.png$domain=www.rajawalitv.com,image
+blogspot.com/*/rajawalitv4.png$domain=rajawalitv.com,image
 animovi.com##.follow-button
 tv21.biz##.idmuvi-sharebtn
 tv21.biz##.idmuvi-socialicon-share
@@ -8144,7 +8154,7 @@ keepimg.com/*/*.*$domain=menujulink.com,image
 menujulink.com##[href="https://menujulink.com/user/login"]
 dailyuploads.net/images/gbw.*$image
 elevenia.co.id/*/wrapbg.jpg
-alexametrics.com/*.js$domain=www.blibli.com
+alexametrics.com/*.js$domain=blibli.com
 blibli.com##.social--items
 blibli.com##.social
 blibli.com##.apps_applestore
@@ -8154,7 +8164,7 @@ dailyuploads.net##[href^="https://href.li/"]
 apkgamers.org##.share-button
 apkgamers.org###SC_TBlock_578538
 sendspace.com##[href="sendspace://m1c25p"]
-sendspace.com/*/android_app_dl.png$domain=www.sendspace.com,image
+sendspace.com/*/android_app_dl.png$domain=sendspace.com,image
 sendspace.com##[href="/download_wizard.html"]
 sendspace.com##[href="/download_android.html"]
 apkpure.com##.slide-wrap
@@ -8163,7 +8173,7 @@ lordsmobile.forum.igg.com/img/*/pc_*.*$image
 featurepoints.com/*/images/landing/*_header_*.*$domain=featurepoints.com,image
 featurepoints.com/*/landing/*_download_apps.png$domain=featurepoints.com,image
 featurepoints.com/*/login_gift_cards.*$domain=featurepoints.com,image
-tokopedia.*/img/*/error-404*.*$domain=www.tokopedia.com,image
+tokopedia.*/img/*/error-404*.*$domain=tokopedia.com,image
 gop3.*/*/img/girl-pose-*.*$image
 invisioncic.com/*/*gop3-bg-cover-*.*$domain=forum.governorofpoker.com,image
 gop3.*/*/*_appstore.png
@@ -8191,14 +8201,14 @@ duniafilm21.com/*/facebook-*.*$image
 duniafilm21.com##.navbar-brand
 duniafilm21.com##.header-social
 nytimes.com##[href^="https://twitter.com/intent/tweet"]
-nytimes.com##[href^="https://www.facebook.com/dialog/feed"]
+nytimes.com##[href^="https://facebook.com/dialog/feed"]
 nytimes.com##[href^="mailto:"]
-rt.com/*/applications/*.png$domain=www.rt.com,image
+rt.com/*/applications/*.png$domain=rt.com,image
 rt.com##.article__share
 rt.com##.social-container
 rt.com##.sharing
-giphy.com/*/*.mp4$domain=www.rt.com
-giphy.com/*/*.ts$domain=www.rt.com
+giphy.com/*/*.mp4$domain=rt.com
+giphy.com/*/*.ts$domain=rt.com
 rt.com##[href="http://mixi.media/"]
 solidfilesusercontent.com/stream/*/*.mp4
 solidfilesusercontent.com/stream/*/*.mkv
@@ -8228,9 +8238,9 @@ slither.io/*/twitter*.*$image
 slither.io/contact/*.*$image
 howningretoneand.info/*
 globwo.online/*
-filmxy.one/*/watch.png$domain=www.filmxy.one,image
-filmxy.one/*/download.png$domain=www.filmxy.one,image
-www.filmxy.one##.custom-link-z
+filmxy.one/*/watch.png$domain=filmxy.one,image
+filmxy.one/*/download.png$domain=filmxy.one,image
+filmxy.one##.custom-link-z
 hargawebsite.com##.jumbotron
 hargawebsite.com##.panel-default
 hargawebsite.com###container
@@ -8238,7 +8248,7 @@ viki.io/*/*.*$domain=redirect.id,image
 redirect.id/themes/*.*$domain=redirect.id,image
 video.cdn.gbps.me##.btn-danger
 video.cdn.gbps.me##.indigo-text
-blogspot.com/*/13127704793_6ec8319b3d_o.jpg$domain=www.dramasparks.com,image
+blogspot.com/*/13127704793_6ec8319b3d_o.jpg$domain=dramasparks.com,image
 dramasparks.com##.cc-banner
 idsly.net##.timeline
 idsly.net##[src="https://idsly.bid/download3.png"]
@@ -8270,7 +8280,7 @@ downace.com##[href="https://downace.com/upgrade.html"]
 downace.com##.uk-icon-facebook
 downace.com##.uk-icon-twitter
 downace.com##[href^="http://bap-34.com/gts/"]
-blogspot.com/-QYUNIXxUWxo/*/*/prosis.*$domain=www.indishare.me,image
+blogspot.com/-QYUNIXxUWxo/*/*/prosis.*$domain=indishare.me,image
 naturalhealthy.xyz/*/uploads/*/*.*image
 naturalhealthy.xyz##.entry-content
 naturalhealthy.xyz##.mh-post-nav
@@ -8287,7 +8297,7 @@ lapor.go.id/*/*-mobile-app.*$image
 lapor.go.id##.block-social-media
 lapor.go.id/*/404-*.*$image
 lapor.go.id/themes/*/*-bg.*$image
-tubebuddy.com/*/homepage/back*.*$domain=www.tubebuddy.com,image
+tubebuddy.com/*/homepage/back*.*$domain=tubebuddy.com,image
 instagram.com/static/*/mediaUpsell.*/*.*$image
 instagram.com/static/*/appstore-*/*.*$image
 secure.tickmill.com/*/*-background.*$image
@@ -8318,7 +8328,7 @@ uploadever.com/*/down.png$
 uploadever.com##.sharetabs
 uploadever.com/*/social.*$image
 gstatic.com/*/adssettingsui/interests/*.svg$domain=adssettings.google.com,image
-static-cdn.jtvnw.net/jtv_user_pictures/panel-*-image-*$domain=www.twitch.tv,image
+static-cdn.jtvnw.net/jtv_user_pictures/panel-*-image-*$domain=twitch.tv,image
 twitch.tv##.tw-svg__asset--reddit
 twitch.tv##.social-button__icon--reddit
 medianewpage.com/*
@@ -8330,7 +8340,7 @@ static6.com/*/*.flv
 ivideosmart.com/*/*.mp4$domain=kompas.com
 ivideosmart.com/*/*.flv$domain=kompas.com
 ivideosmart.com/*/*.ts$domain=kompas.com
-ivideosmart.com/*/*.mp4$domain=www.kompas.com
+ivideosmart.com/*/*.mp4$domain=kompas.com
 ivideosmart.com/serve/*/video/*
 kompas.com##.float-large
 kompas.com/*/logo-ifcn.png
@@ -8382,7 +8392,7 @@ GrandCapital.com/*/orbs.jpg
 grandbroker.com/*/signIn-bg.*$image
 grandcapital.net/*/signIn-bg.*$image
 s.yimg.com/*/notification*.gif$domain=mail.yahoo.com
-qq.com/*/wechat_portal/*/static/*/1rK*.*$domain=www.wechat.com,image
+qq.com/*/wechat_portal/*/static/*/1rK*.*$domain=wechat.com,image
 imgsmail.ru/*/mobilebg.*$domain=e.mail.ru,image
 imgsmail.ru/*/mobile-rebranding.png
 imgsmail.ru/*/appstore.png
@@ -8421,13 +8431,13 @@ apkhost.co###Prem_days
 apkhost.co/images/social.jpg
 deezer.com###modal_push_premium
 deezer.com/*/placeholders/*.png$image
-dzcdn.net/*/trial/header*.*$domain=www.deezer.com,image
-dzcdn.net/*/visuals/*desktop*.*$domain=www.deezer.com,image
-dzcdn.net/*/pages/*/visual*.*$domain=www.deezer.com,image
-dzcdn.net/*/images/*/features/*.*$domain=www.deezer.com,image
-dzcdn.net/*/header/*desktop.*$domain=www.deezer.com,image
+dzcdn.net/*/trial/header*.*$domain=deezer.com,image
+dzcdn.net/*/visuals/*desktop*.*$domain=deezer.com,image
+dzcdn.net/*/pages/*/visual*.*$domain=deezer.com,image
+dzcdn.net/*/images/*/features/*.*$domain=deezer.com,image
+dzcdn.net/*/header/*desktop.*$domain=deezer.com,image
 deezer.com##.backstage-follow-container
-upwork.*/*/assets/*/images/xl*.*$domain=www.upwork.com,image
+upwork.*/*/assets/*/images/xl*.*$domain=upwork.com,image
 twoo.com##.tw3-promoHor--premium
 twoo.com##.tw3-promoHor
 hitwe.com##.act-footer-links
@@ -8450,15 +8460,15 @@ twoo.com##.tw3-promoCard
 twoo.com##.jsPaywall
 twoo.com##.jsNoMoreAds
 twoo.com##.jsHighlightMessageUpsell
-twoo-a.akamaihd.net/static/*/img-phones.png$domain=www.twoo.com,image
+twoo-a.akamaihd.net/static/*/img-phones.png$domain=twoo.com,image
 twitter.com##[href^="https://ads.twitter.com/"]
 twitter.com##[href="//support.twitter.com"]
 google.com##[href^="https://store.360totalsecurity.com/en/"]
 linkedin.com##.mn-community-summary__abi
 live.com/*/Backgrounds/0*.*$domain=login.live.com,image
 msauth.net/*/convergedbg_*.*$domain=account.live.com,image
-skypeassets.com/*/home-promo/*.*$domain=www.skype.com,image
-skypeassets.com/content/*/downloads/*-screen.*$domain=www.skype.com,image
+skypeassets.com/*/home-promo/*.*$domain=skype.com,image
+skypeassets.com/content/*/downloads/*-screen.*$domain=skype.com,image
 bing.com/th?id=*.jpg&rf=LaDigue*.jpg*
 google.*/chrome/static/*/*-desktop.*$image
 tokunation.com##.share
@@ -8504,9 +8514,9 @@ youtube.com###video-masthead
 /watch_autoplayrenderer.js$script,domain=m.youtube.com
 /annotations_module.js$script,domain=m.youtube.com
 /endscreen.js$script,domain=m.youtube.com
-/watch_autoplayrenderer.js$script,domain=www.youtube.com
-/annotations_module.js$script,domain=www.youtube.com
-/endscreen.js$script,domain=www.youtube.com
+/watch_autoplayrenderer.js$script,domain=youtube.com
+/annotations_module.js$script,domain=youtube.com
+/endscreen.js$script,domain=youtube.com
 youtube.com###head.ytd-compact-autoplay-renderer
 youtube.com##.checkbox-on-off
 youtube.com##.watch-sidebar-head
@@ -8538,12 +8548,12 @@ dafont.com/*/penguins*.*$image
 ko-fi.com##.small-share-panel
 ko-fi.com##.swal2-confirm
 ko-fi.com##.supportkofi-link-gold
-payoneer.com/*/*_background.jpg$domain=www.payoneer.com,image
+payoneer.com/*/*_background.jpg$domain=payoneer.com,image
 payoneer.com/assets/*0*.*$domain=login.payoneer.com,image
 jasonsavard.com/*/promos/*.*$image
-licdn.com/*/64xk850n3a8uzse6fi11l3vmz*$domain=www.linkedin.com,image
+licdn.com/*/64xk850n3a8uzse6fi11l3vmz*$domain=linkedin.com,image
 noxinfluencer.com##.social-block-container
-tapatalk.com/*/home_bg*.*$domain=www.tapatalk.com,image
+tapatalk.com/*/home_bg*.*$domain=tapatalk.com,image
 forexwinners.ru##.cc-window
 forexwinners.ru##.background-cover
 tradingcentral.com/*/*.mp4
@@ -8564,8 +8574,8 @@ mql5.com/sh/*/?link=http*$subdocument
 kamiapp.com/*/*edu-link-graphic-*.*$image
 userstyles.org##.NotificationLine
 userstyles.org###share_div
-amazonaws.com/*/banners/*/promo*.gif$domain=www.shopback.co.id,image
-amazonaws.com/*/banners/*/promo*.gif$domain=www.shopback.com,image
+amazonaws.com/*/banners/*/promo*.gif$domain=shopback.co.id,image
+amazonaws.com/*/banners/*/promo*.gif$domain=shopback.com,image
 deskgram.net/*
 giph-it.com/*
 noxinfluencer.com/img/home/147*.jpg
@@ -8580,14 +8590,14 @@ yooying.com##.n-ad
 discordapp.com/assets/8eba*.png
 magazine.artstation.com##.s-bar
 artstation.com##.col-xs-3.s-grid-item
-ytimg.com/vi/*/*default.jpg$domain=www.clipconverter.cc,image
+ytimg.com/vi/*/*default.jpg$domain=clipconverter.cc,image
 noxinfluencer.*/*/1473397d.jpg$domain=id.noxinfluencer.com,image
 spotify.com/static/*/devices/*.*$domain=open.spotify.com,image
 spotify.com##[href^="https://open.spotify.com/download"]
 spotify.com##.NavBar__download-item
-dzcdn.net/cache/slash/images/*/visual-desktop*.*$domain=www.deezer.com,image
+dzcdn.net/cache/slash/images/*/visual-desktop*.*$domain=deezer.com,image
 soundcloud.com##.header__proUpsell
-dzcdn.net/*/404/*.*$domain=www.deezer.com,image
+dzcdn.net/*/404/*.*$domain=deezer.com,image
 douploads.com##.btn-danger
 translate.google.com##[href^="https://translate.google.com/community"]
 glosbe.com###phrase-actions-dropdown
@@ -8600,7 +8610,7 @@ apk4all.com##.custom-logo
 clipconverter.cc###notificationswitch
 apkhost.co##.sharetabs
 antaranews.com##iframe
-dable.io/widgets/*$domain=www.antaranews.com,subdocument
+dable.io/widgets/*$domain=antaranews.com,subdocument
 metube.id##[href="https://itunes.apple.com/id/app/metube-id/id1139659251"]
 metube.id##[href^="https://play.google.com/store/apps/details"]
 metube.id##.v-footer--inset.footer
@@ -8638,8 +8648,8 @@ filmxy.*/*/download.*$image
 google.*###footer
 psarips.*##[href="https://psarips.eu/"]
 psarips.*##.dropshadowboxes-effect-default
-googleusercontent.com/*=w0$domain=www.google.com,image
-googleusercontent.com/*=w0$domain=www.google.id,image
+googleusercontent.com/*=w0$domain=google.com,image
+googleusercontent.com/*=w0$domain=google.id,image
 lonelymoon.net##.gmr-box-content
 lonelymoon.net###secondary
 lonelymoon.net##.site-footer
@@ -8676,7 +8686,7 @@ midgard-community.*##.fa-share-alt
 midgard-community.*##.footer_end
 ##[https://play.google.com/store/apps/details?id=com.myfxbook.forex&hl=en]
 ##[https://itunes.apple.com/il/app/forex-calendar-market-news/id985947299?mt=8&hl=en]
-##[https://www.myfxbook.com/eac.html?code=337&redirect=8&token=a93b9b6741687cba75558ea992c40816]
+##[https://myfxbook.com/eac.html?code=337&redirect=8&token=a93b9b6741687cba75558ea992c40816]
 pahe.*##.nf-post-footer
 mega.*##.extension-advise
 uptobox.*##.copyright
@@ -8695,7 +8705,7 @@ midgard-community.*##.social-circle
 midgard-community.*/*/downloadterm*.*.$image
 herc.*##.cShareLink
 herc.*###elGuestTerms
-facebook.*##[href^="https://www.facebook.com/help/cookies"]
+facebook.*##[href^="https://facebook.com/help/cookies"]
 doublepimp.*/*
 xclickers.*/*
 ingeliteral.*/*
@@ -8703,7 +8713,7 @@ eatcells.*/landing/*
 eatcells.*/*
 heavy-r.*##.hd-bar
 static.heavy-r.com/scr/26/35/75/263575760fc321a_2.jpg
-heavy-r.*/*/logo.*$domain=www.heavy-r.com,image
+heavy-r.*/*/logo.*$domain=heavy-r.com,image
 heavy-r.*##.fa-lg.fa-link.fa
 heavy-r.*##.bx-prev
 tickmill.*/*/mt4apps.png
@@ -8741,11 +8751,11 @@ letsupload.*##.socialsider_opacity
 letsupload.*##[href="https://letsupload.co/upgrade.html"]
 letsupload.*##.sharebut
 metube.*/embed/*/*autoplay=true*$domain=news.okezone.com
-metube.*/embed/*/*autoplay=true*$domain=www.okezone.com
+metube.*/embed/*/*autoplay=true*$domain=okezone.com
 okezone.*##.metube_div__inner
 divine-pride.*##.cc-theme-block
 divine-pride.*##.cShareLink
-imdb.*##[href^="http://www.facebook.com/sharer.php"]
+imdb.*##[href^="http://facebook.com/sharer.php"]
 imdb.*##[href^="http://twitter.com/intent/tweet"]
 imdb.*##[href^="mailto:"]
 imdb.*##.ipc-icon--share
@@ -8775,11 +8785,11 @@ daumpotplayer.*##.entry-meta-term-excerpt
 wasiteuro.*/*
 untungvip.*/*
 ##[href="https://blurayufr.com/advertising/"]
-##[href="https://www.kuncidisini.com/?ref=ads31"]
-##[href="http://www.untungvip.com/"]
+##[href="https://kuncidisini.com/?ref=ads31"]
+##[href="http://untungvip.com/"]
 ##[href="http://68.183.227.208/"]
-##[href="https://www.wasiteuro.com/"]
-##[href^="https://www.telatbangun.com/"]
+##[href="https://wasiteuro.com/"]
+##[href^="https://telatbangun.com/"]
 ##[href="https://162.213.249.4/"]
 162.213.249.4/*
 blurayufr.*###banner_iklan_top
@@ -8838,9 +8848,9 @@ agansultan.*##.adsbyadop
 megaup.*##.socialsider
 filecrypt.*##.cnlform
 filecrypt.*##.buttons
-movienear.*/uploads/*/*.*$domain=www.movienear.me,image
-movienear.*/*/images/*.*$domain=www.movienear.me,image
-vebma.*/covers/*/*.*$domain=www.movienear.me,image
+movienear.*/uploads/*/*.*$domain=movienear.me,image
+movienear.*/*/images/*.*$domain=movienear.me,image
+vebma.*/covers/*/*.*$domain=movienear.me,image
 movienear.*##.entry-title
 movienear.*##.entry-meta
 movienear.*##.g1-hb-shadow-off
@@ -8849,7 +8859,7 @@ movienear.*###secondary
 movienear.*##.g1-prefooter
 movienear.*###cookie-pop
 movienear.*##table
-blogspot.*/*/*.*$domain=www.movienear.me,image
+blogspot.*/*/*.*$domain=movienear.me,image
 mega.*##.send-to-contact-item
 mega.*##.properties-item
 mega.*##.add-star-item
@@ -8950,16 +8960,16 @@ pdalife.*##.game-versions__bottom
 pdalife.*##.game-footer__admins-user
 pdalife.*##.game-footer__admins
 pdalife.*##.js-footer-bottom
-youtube.*/embed/*$domain=www.uploadship.com,subdocument
+youtube.*/embed/*$domain=uploadship.com,subdocument
 uploadship.*##div.file-box
 uploadship.*/*/DigitalPush.*$image
-uploadship.*##[href="https://www.uploadship.com/upgrade.html"]
+uploadship.*##[href="https://uploadship.com/upgrade.html"]
 uploadship.*##.antivirus
 file-up.*##.bottom-footer
 file-up.*###sharebuttons
 file-up.*##.form-control
 file-up.*##.tabs-style-linebox
-youtube.*/subscribe_embed*$domain=www.file-up.org,subdocument
+youtube.*/subscribe_embed*$domain=file-up.org,subdocument
 androidrepublic.*##.notice-content
 androidrepublic.*##.js-notice.notice
 androidrepublic.*##[href="/help/terms/"]
@@ -8994,9 +9004,9 @@ apk.support##.currency-social
 apk.support##.legal
 revdl.*##.sxc-follow-buttons
 revdl.*##.mks_social_widget
-revdl.*##[href="https://www.revdl.net/contact/"]
+revdl.*##[href="https://revdl.net/contact/"]
 revdl.*###footer
-revdownload.*##[href="https://www.revdl.net"]
+revdownload.*##[href="https://revdl.net"]
 dlandroid.*##.social-btn
 dlandroid.*/wp-content/*/telegram.png
 dlandroid.*##[href="http://r.dlandroid.com/contact-us/"]
@@ -9018,13 +9028,13 @@ filehorse.*###newsletter1
 filehorse.*##.cc_banner
 filehorse.*##.followus_net
 filehorse.*##.networking
-filehorse.*##[href="https://www.filehorse.com/contact/"]
-filehorse.*##[href="https://www.filehorse.com/privacy/"]
-filehorse.*##[href="https://www.filehorse.com/terms/"]
-filehorse.*##[href="https://www.filehorse.com/about/"]
+filehorse.*##[href="https://filehorse.com/contact/"]
+filehorse.*##[href="https://filehorse.com/privacy/"]
+filehorse.*##[href="https://filehorse.com/terms/"]
+filehorse.*##[href="https://filehorse.com/about/"]
 filehorse.*##.share_with_friends
-365myoffice.*/*/themes/*/*bg.*$domain=www.365myoffice.com,image
-blogspot.com/*/*.*$domain=www.365myoffice.com,image
+365myoffice.*/*/themes/*/*bg.*$domain=365myoffice.com,image
+blogspot.com/*/*.*$domain=365myoffice.com,image
 365myoffice.*##.meta
 365myoffice.*##.post-heading
 365myoffice.*###navbarResponsive
@@ -9039,11 +9049,11 @@ github.*##[href="https://github.com/site/privacy"]
 github.*##[href="https://github.com/site/terms"]
 github.*##[href="https://github.blog"]
 githubstatus.*##[href="https://twitter.com/github"]
-githubstatus.*##[href="https://www.facebook.com/GitHub"]
+githubstatus.*##[href="https://facebook.com/GitHub"]
 about.me##.cookie_notice-scope-1nenT
 about.me##.ledge-content
 audiojungle.*##.item-preview__preview-buttons--social
-googleusercontent.*/kanYU*EiXXnazzkn4*5OyG$domain=www.google.com,image
+googleusercontent.*/kanYU*EiXXnazzkn4*5OyG$domain=google.com,image
 mediafire.*##[href^="/upgrade/index.php"]
 mediafire.*##[href="/upgrade/"]
 ||@@zippyshare.*###dlbutton
@@ -9060,7 +9070,7 @@ receive-sms-online.*##.mt-promo-bar
 receive-sms-online.*##.cc_banner
 receive-sms-online.*##[href="https://t.me/receivesmsonlineinfo"]
 receive-sms-online.*###fixed
-dailymotion.*/embed/*$domain=www.kompasiana.com
+dailymotion.*/embed/*$domain=kompasiana.com
 dailymotion.*/embed/*$domain=m.kompasiana.com
 linkedin.*##.mn-abi-form__content--promo
 hellosehat.*##.sharedaddy
@@ -9115,7 +9125,7 @@ rh1hilm7j0ae.com/*
 dlandroid.*/*/azio*.*
 dl-android.*/*/azio*.*
 dl-android.*##.xs-btn-dl
-file-up.org##[href="https://www.file-up.org/?op=payments"]
+file-up.org##[href="https://file-up.org/?op=payments"]
 androidtop.*##.share
 androidtop.*##[href^="/index.php"]
 androidtop.*##[href="/en/privacy-policy.html"]
@@ -9167,14 +9177,14 @@ apkpuff.*##.author-wrap
 apkpuff.*##.postauthor
 apkpuff.*##.copyright
 apkpuff.*###header > .header-social
-dmca.*/Badges/*.*$domain=www.apkwhale.com
-apkwhale.*##[href="https://www.apkwhale.com/privacy-policy/"]
-apkwhale.*##[href="https://www.apkwhale.com/disclaimer/"]
-apkwhale.*###menu-item-13 > [href="https://www.apkwhale.com/contact/"]
+dmca.*/Badges/*.*$domain=apkwhale.com
+apkwhale.*##[href="https://apkwhale.com/privacy-policy/"]
+apkwhale.*##[href="https://apkwhale.com/disclaimer/"]
+apkwhale.*###menu-item-13 > [href="https://apkwhale.com/contact/"]
 apkwhale.*##[href="https://t8f5i6q9.stackpathcdn.com/sitemap.xml"]
 apkwhale.*##.subcontainer > .social
-apkwhale.*##[href="https://www.apkwhale.com/contact/"]
-apkwhale.*##[href="https://www.apkwhale.com/advertise-with-us/"]
+apkwhale.*##[href="https://apkwhale.com/contact/"]
+apkwhale.*##[href="https://apkwhale.com/advertise-with-us/"]
 apkwhale.*##.social
 apkwhale.*##.bloque-blogs
 apkwhale.*##.box-social
@@ -9188,7 +9198,7 @@ apk-top.*/templates/*/logo.*$domain=apk-top.net,image
 apk-top.*##.fa-heart-o
 apk-top.*##.logo
 apk-mod.*##[href="/en/feedback.html"]
-revdl.*##[href="https://www.revdl.com/contact/"]
+revdl.*##[href="https://revdl.com/contact/"]
 platinmods.*##.shareButtons
 platinmods.*##[href="https://platinmods.com/pages/upgradeyouraccount/"]
 platinmods.*##.contentRow-snippet
@@ -9240,7 +9250,7 @@ googleusercontent.*/kanYUK9H1*qjPb3XJ-qXxxZzCW5OyGqr8r0X*$image
 ||@@e.mail.ru/*
 mail.ru##.advert-column
 pinterest.*##.footerIcon
-pinterest.*##[href="https://www.pinterest.com/_/_/about/privacy/"]
+pinterest.*##[href="https://pinterest.com/_/_/about/privacy/"]
 apkgk.*/images/apkgk*.png
 apkgk.*##.form-downloader
 apkgk.*##[href="/dmca.html"]
@@ -9259,9 +9269,9 @@ tumblr.*###app_iphone
 tumblr.*###app_android
 tumblr.*##.full_promo_copy
 tumblr.*##.full_promo
-tumblr.*##[href="https://www.tumblr.com/policy/privacy"]
-tumblr.*##[href="https://www.tumblr.com/policy/terms-of-service"]
-tumblr.*##[href="https://www.tumblr.com/about"]
+tumblr.*##[href="https://tumblr.com/policy/privacy"]
+tumblr.*##[href="https://tumblr.com/policy/terms-of-service"]
+tumblr.*##[href="https://tumblr.com/about"]
 tumblr.*##[href="https://tumblr.zendesk.com/hc/articles/360024045873"]
 tumblr.*##.terms
 tumblr.*##.privacy
@@ -9292,7 +9302,7 @@ trakt.*##.panel-heading > .label-vip
 trakt.*##[href="/b/widgets"]
 trakt.*/*/welcome/bg/*.webp$image
 justwatch.*##.offer-reporter-button
-google.*/recaptcha/*/anchor*$domain=www.file-up.org,subdocument
+google.*/recaptcha/*/anchor*$domain=file-up.org,subdocument
 file-up.*##.grecaptcha-badge
 wendgames.*###cookie-law-info-bar
 trycheat.*/*
@@ -9346,7 +9356,7 @@ m.facebook.com##[href^="https://m.facebook.com/click.php"]
 mtouch.facebook.com##[href^="https://m.facebook.com/click.php"]
 ##a[href="http://tapstream.tapatalk.com/oiaq-1"]
 ##[href="http://tapstream.tapatalk.com/oiaq-1"]
-##[href^="https://www.linkedin.com/e/v2"]
+##[href^="https://linkedin.com/e/v2"]
 linkedin.*###compactfooter-get_app_footer
 linkedin.*###compactfooter-privacy_dropdown-trigger
 github.*##.promo-banner-bg
@@ -9370,7 +9380,7 @@ ctfassets.*/rporu91m20dc/*/*.*$image
 netflix.*/*/login/*.*$image
 nflxext.*/*/login/*.*$image
 nflxext.*/*/*login*.*$image
-fxleaders.*##[href="https://www.fxleaders.com/linkout/49329"]
+fxleaders.*##[href="https://fxleaders.com/linkout/49329"]
 fxleaders.*##[href="/forex-signals/premium-subscribe"]
 cloudfront.*/*/fxml/*/images/*/*bg*.*$image
 cloudfront.*/*/fxml/*/footer/phones.*$image
@@ -9393,10 +9403,10 @@ bukalapak.*##.c-brand--red
 bukalapak.*##.c-footer__content
 ytricks.*##.site-title
 ytricks.*##[href="https://telegram.me/ytricks"]
-ytricks.*##[href="https://www.ytricks.net/contact/"]
-ytricks.*##[href="https://www.ytricks.net/privacy-policy/"]
-ytricks.*##[href="https://www.ytricks.net/advertise/"]
-ytricks.*##[href="https://www.ytricks.net/about-us/"]
+ytricks.*##[href="https://ytricks.net/contact/"]
+ytricks.*##[href="https://ytricks.net/privacy-policy/"]
+ytricks.*##[href="https://ytricks.net/advertise/"]
+ytricks.*##[href="https://ytricks.net/about-us/"]
 fast.*##.share-container
 fast.*##.powered-by
 dictation.*##.cc-banner
@@ -9407,7 +9417,7 @@ soundcloud.*##.sc-button-toolbar > .sc-button-cta.signupButton
 soundcloud.*##.sc-button-toolbar > .loginButton
 soundcloud.*##.header__logoLink
 soundcloud.*##.sc-button-share
-esteem.*##[href="https://www.youtube.com/eSteemApp"]
+esteem.*##[href="https://youtube.com/eSteemApp"]
 esteem.*##[href="https://twitter.com/esteem_app"]
 androidapksdl.*##[href="https://androidapksdl.com/"]
 akamaized.*/*/nonolive/*/*08*80b*ef7.jpg
@@ -9418,13 +9428,13 @@ nonolive.*##.nono-video__lag-tip
 metube.*##.v-list__tile__action
 replika.ai##.sc-fzXfPG
 dropbox.*##.recaptcha-terms-text
-dropbox.*##[href="https://www.dropbox.com/install"]
+dropbox.*##[href="https://dropbox.com/install"]
 trakt.*/*/auth/*.*$image
 vidio.*##.button-follow
 vidio.*##.video-watch__follow-button
 vidio.*##.ga-mobile__button-follow
 pahe.*##[href="https://pahe.in/privacy-policy/"]
-pahe.*##[href="http://www.wordpress.com"]
+pahe.*##[href="http://wordpress.com"]
 pahe.*##.post-navigation
 fimela.*##.read-page--social-share
 fimela.*##.footer__socmed-icon
@@ -9437,7 +9447,7 @@ ofgogoatan.*/*
 yifysubtitles.*##[href="/privacy/"]
 yifysubtitles.*##[href="/legal-information/"]
 yifysubtitles.*##[href="/contact/"]
-yifysubtitles.*##[href="http://www.open-fonts.com/"]
+yifysubtitles.*##[href="http://open-fonts.com/"]
 omahfxglobal.*/*/*bg*header*.*$image
 omahforex.*/*/*bg*header*.*$image
 zedge.*/*/backgrounds/*/*.*$image
@@ -9446,13 +9456,13 @@ prismic.*/zedgenet/*hero.*$image
 prismic.*/zedgenet/*_ct.*$image
 prismic.*/zedgenet/*premium*.*$image
 zedge.*##web-feedback-overlay
-zedge.*##[href="http://www.zedge.net/terms/"]
-zedge.*##[href="http://www.zedge.net/community-guidelines"]
+zedge.*##[href="http://zedge.net/terms/"]
+zedge.*##[href="http://zedge.net/community-guidelines"]
 dropbox.*##.account-header-silo
 dropbox.*##[href="/help/desktop-web/star-doc-file-folder"]
 dropbox.*##.privacy-link
 dropbox.*##[href="/help/desktop-web/homepage#suggest"]
-dropbox.*##[href="https://www.dropbox.com/help/files-folders/file-types-that-preview"]
+dropbox.*##[href="https://dropbox.com/help/files-folders/file-types-that-preview"]
 dropbox.*##.preview-error__help-link
 savefrom.*##[href="/privacy-policy.html"]
 savefrom.*##[href="/terms.html"]
@@ -9469,7 +9479,7 @@ bible.*##.truncate.w-40-m.w-30
 bible.*##.f6-m.f7.truncate.br2.yv-green.link
 biblegateway.*##.subscribe-info
 biblegateway.*##.passage-resources-link
-biblegateway.*##[href^="https://www.biblegateway.com/plus/"]
+biblegateway.*##[href^="https://biblegateway.com/plus/"]
 biblegateway.*##.sys-announce-wrapper
 biblegateway.*##.js-passage-share-link
 spacetica.*##[href="https://spacetica.com/page/Privacy-Policy"]
@@ -9502,7 +9512,7 @@ suara.*##.share-sosmed
 suara.*###tag-detail
 suara.*###next-read
 techpowerup.*##.gpudb-report-error
-tpucdn.*/*/logo-*.*$domain=www.techpowerup.com,image
+tpucdn.*/*/logo-*.*$domain=techpowerup.com,image
 tpucdn.*/*/avatars/*/*
 tpucdn.*/*/sigpics/*/*
 tpucdn.*/forums/styles/tpu/logo-v1.png
@@ -9515,7 +9525,7 @@ tpucdn.*/images/logo-v3.svg
 tpucdn.*/images/logo-v4.svg
 tpucdn.*/images/logo-v5.svg
 techpowerup.*##.site-header__logo-wrapper
-techpowerup.*##[href^="http://www.techpowerup.com/njutrvceser/766.png2"]
+techpowerup.*##[href^="http://techpowerup.com/njutrvceser/766.png2"]
 techpowerup.*##.message-avatar-wrapper
 techpowerup.*##.shareButtons
 techpowerup.*##.shareButtons--iconic
@@ -9527,7 +9537,7 @@ techpowerup.*##[id="logoBlock"]
 techpowerup.*##[id="logo-wrap"]
 techpowerup.*##DIV[id="adBlock"]
 techpowerup.*##DIV[class="logo-wrap"]
-techpowerup.*##IMG[src="https://www.techpowerup.com/dfglkhjnertiur/7af3e6c8.jpg"]
+techpowerup.*##IMG[src="https://techpowerup.com/dfglkhjnertiur/7af3e6c8.jpg"]
 techpowerup.*##A[class="zyekubq"]
 techpowerup.*##A[class="mvqhlnc"]
 techpowerup.*##A[class="kbjoetgu"]
@@ -9536,8 +9546,8 @@ techpowerup.*##A[class="urbchyas"]
 techpowerup.*##A[class="wosq"]
 techpowerup.*##A[class="hckql"]
 techpowerup.*##SECTION[class="bgujfgdn"]
-techpowerup.*##IMG[src="https://www.techpowerup.com/jutrfbvhjhred/*"]
-techpowerup.*##A[href="http://www.techpowerup.com/jutrfbvhjhred/476.png"]
+techpowerup.*##IMG[src="https://techpowerup.com/jutrfbvhjhred/*"]
+techpowerup.*##A[href="http://techpowerup.com/jutrfbvhjhred/476.png"]
 techpowerup.*##A[class="xslca"]
 techpowerup.*##A[class="cyekltim"]
 techpowerup.*##A[class="hwpjlms"]
@@ -9552,8 +9562,8 @@ techpowerup.*##A[class="lvcorjq"]
 techpowerup.*##A[class="pvmnu"]
 techpowerup.*##A[class="nbtwuo"]
 techpowerup.*##A[class="zbrokh"]
-techpowerup.*##IMG[src="http://www.techpowerup.com/ghjhntv/527.png"]
-techpowerup.*##IMG[src="https://www.techpowerup.com/ghjhntv/*"]
+techpowerup.*##IMG[src="http://techpowerup.com/ghjhntv/527.png"]
+techpowerup.*##IMG[src="https://techpowerup.com/ghjhntv/*"]
 techpowerup.*/dfglkhjnertiur/*
 techpowerup.*/*/315.png
 techpowerup.*/*/cffdab1d.jpg
@@ -9594,25 +9604,25 @@ youtube.*###promotion-shelf
 *_ad_$media,domain=youtube.com,third-party
 youtube.*##.iv-card-image
 youtube.*##.signup-promo
-youtube.*##[href="//www.youtube.com/yt/policyandsafety/"]
-youtube.*##[href="https://www.youtube.com/yt/about/policies/"]
-youtube.*##[href="https://www.google.com/intl/en/policies/privacy/"]
-youtube.*##[href="https://www.youtube.com/t/terms"]
+youtube.*##[href="//youtube.com/yt/policyandsafety/"]
+youtube.*##[href="https://youtube.com/yt/about/policies/"]
+youtube.*##[href="https://google.com/intl/en/policies/privacy/"]
+youtube.*##[href="https://youtube.com/t/terms"]
 youtube.*##[href="/t/terms"]
-youtube.*##[href="//www.youtube.com/yt/copyright/"]
+youtube.*##[href="//youtube.com/yt/copyright/"]
 youtube.*###google-help
 youtube.*###disclaimer-html
 youtube.*##[href^="//support.google.com/youtube/answer/1722171"]
 youtube.*##[href^="//support.google.com/youtube/answer/2801999"]
-youtube.*##[href^="http://www.youtube.com/t/community_guidelines"]
+youtube.*##[href^="http://youtube.com/t/community_guidelines"]
 youtube.*##[href="/t/community_guidelines"]
 youtube.*##.guidelines-reminder-description
 youtube.*##.guidelines-reminder-title
-youtube.*/*/child_safety_icon*.*$domain=www.youtube.com,image
-youtube.*/*/educator_resources_icon*.*$domain=www.youtube.com,image
+youtube.*/*/child_safety_icon*.*$domain=youtube.com,image
+youtube.*/*/educator_resources_icon*.*$domain=youtube.com,image
 youtube.*##.tb-main-menu-social
-youtube.*##[href="https://www.tubebuddy.com/termsofuse"]
-youtube.*##[href="https://www.tubebuddy.com/privacy"]
+youtube.*##[href="https://tubebuddy.com/termsofuse"]
+youtube.*##[href="https://tubebuddy.com/privacy"]
 youtube.*##.tb-menu-goto-rating
 youtube.*##.tb-menu-goto-rating-container
 youtube.*##[href="https://addons.mozilla.org/firefox/addon/tubebuddy-plugin/reviews/"]
@@ -9628,7 +9638,7 @@ echocobo.*/cara-streaming-download/embed/$subdocument
 pahe.*##.fa-facebook
 pahe.*##[href="http://idfl.me"]
 pahe.*##[href="mailto:sebutsajamasbudi@gmail.com"]
-pahe.*##[href="http://www.wordpress.com"]
+pahe.*##[href="http://wordpress.com"]
 pahe.*##[href="https://pahe.in/privacy-policy/"]
 discordapp.*/*$domain=pahe.ph,subdocument
 facebook.*##.nf1dmkjp.pnx7fd3z.ms05siws.pedkr2u6
@@ -9653,7 +9663,7 @@ zedge.*##web-feedback-overlay
 u.id/static/*/bg*.*
 my.id/static/*/bg*.*
 coowry.*###cw-data-cookie-legal
-techpowerup.*/njutrvceser/*.*$domain=www.techpowerup.com,image
+techpowerup.*/njutrvceser/*.*$domain=techpowerup.com,image
 techpowerup.*com##.mnmuzjsddc
 msn.*###irisbanner
 msn.*###MSN_Firefox_DHP_Banner_INTL_version2
@@ -9687,19 +9697,19 @@ zoom.*##[href="/terms"]
 zoom.*##[href="https://zoom.us/legal"]
 zoom.*##.info-icons
 zoom.*##.social
-tiktok.*##[href="https://www.tiktok.com/id/terms-of-use"]
-tiktok.*##[href="https://www.tiktok.com/id/privacy-policy"]
-tiktok.*##[href="https://www.tiktok.com/en/terms-of-use"]
-tiktok.*##[href="https://www.tiktok.com/en/privacy-policy"]
-tiktok.*##[href="https://www.tiktok.com/terms-of-use"]
-tiktok.*##[href="https://www.tiktok.com/privacy-policy"]
+tiktok.*##[href="https://tiktok.com/id/terms-of-use"]
+tiktok.*##[href="https://tiktok.com/id/privacy-policy"]
+tiktok.*##[href="https://tiktok.com/en/terms-of-use"]
+tiktok.*##[href="https://tiktok.com/en/privacy-policy"]
+tiktok.*##[href="https://tiktok.com/terms-of-use"]
+tiktok.*##[href="https://tiktok.com/privacy-policy"]
 tiktok.*##[href^="/legal/law-enforcement"]
 tiktok.*##[href^="/legal/privacy-policy"]
 tiktok.*##[href^="/community-guidelines"]
 tiktok.*##[href^="https://developers.tiktok.com/"]
 tiktok.*##[href="https://newsroom.tiktok.com"]
-tiktokcdn.*/*/static/*/download/button*.*$domain=www.tiktok.com,image
-/*/*tiktok*/store-badge/*.*$domain=www.tiktok.com,image
+tiktokcdn.*/*/static/*/download/button*.*$domain=tiktok.com,image
+/*/*tiktok*/store-badge/*.*$domain=tiktok.com,image
 /*/*tiktok*/store-badge/*.*$domain=m.tiktok.com,image
 tiktok.*##.guide
 tiktok.*##.guide-bar
@@ -9725,7 +9735,7 @@ tiktok.*##.mask
 tiktokcdn.*/*/static/*/*twitter*.svg
 tiktokcdn.*/*/static/*/*pinterest*.svg
 image.revdl.*/social/*.*$image
-revdownload.*##[href="https://www.youtube.com/channel/UCzXVrXfsiTzDWMjpJEFhRAw/"]
+revdownload.*##[href="https://youtube.com/channel/UCzXVrXfsiTzDWMjpJEFhRAw/"]
 deskgram.*##.upload-btn
 deskgram.*##[href="/api/login"]
 deskgram.*##[href="/api/privacy-policy"]
@@ -9785,7 +9795,7 @@ scmp.*##.trust-label
 scmp.*##.trust-label__link
 pahe.*##.background-cover
 nitroflare.*##.purchaseNoWaiting
-nitroflare.*##[href="https://www.facebook.com/Nitroflarecom-1301087170011408/"]
+nitroflare.*##[href="https://facebook.com/Nitroflarecom-1301087170011408/"]
 nitroflare.*##.noticeMessage
 nitroflare.*/*/swf/*.swf$domain=nitroflare.com,object
 nitroflare.*##[href="privacyPolicy"]
@@ -9810,8 +9820,8 @@ cnnindonesia.*##.detail_tag
 cnnindonesia.*##.gtm_disclaimer
 cnbc.*###social-buttons-transporter
 cnbc.*##.Footer-privacy
-cnbc.*##[href^="https://www.nbcuniversal.com/privacy"]
-cnbc.*##[href="https://www.cnbc.com/nbcuniversal-terms-of-service/"]
+cnbc.*##[href^="https://nbcuniversal.com/privacy"]
+cnbc.*##[href="https://cnbc.com/nbcuniversal-terms-of-service/"]
 cnbcindonesia.*/cnbc/*/logo.*$image
 cnbcindonesia.*##[src="https://cdn.cnbcindonesia.com/cnbc/mobile/images/logo-ios.png?v=4.8.5"]
 cnbcindonesia.*##[src="https://cdn.cnbcindonesia.com/cnbc/mobile/images/logo-android.png?v=4.8.5"]
@@ -9863,10 +9873,10 @@ neonime.*##.tvsocial
 neonime.*##.radiushare
 dailystar.*##.social-sites
 dailystar.*##.social-links
-dailystar.*##[href="https://www.dailystar.co.uk/cookie-policy/"]
-dailystar.*##[href="https://www.dailystar.co.uk/privacy-policy/"]
-dailystar.*##[href="https://www.dailystar.co.uk/terms-conditions/"]
-dailystar.*##[href^="http://www.footie5.com"]
+dailystar.*##[href="https://dailystar.co.uk/cookie-policy/"]
+dailystar.*##[href="https://dailystar.co.uk/privacy-policy/"]
+dailystar.*##[href="https://dailystar.co.uk/terms-conditions/"]
+dailystar.*##[href^="http://footie5.com"]
 dailystar.*##[href="https://discountcode.dailystar.co.uk/"]
 sitenable.*##.jededplace
 filesdownloader.*##.jededplace
@@ -9913,7 +9923,7 @@ tribunnews.*###iklan_Anchor
 tribunnews.*###anchorads
 kompas.*##.facebook.share__link
 kompas.*##.tagsplace
-kompas.*##[href="https://www.kompas.tv/terms-of-service"]
+kompas.*##[href="https://kompas.tv/terms-of-service"]
 kompas.*##.menu_social
 gramedia.*###launcher
 gramedia.*##.apps
@@ -9963,13 +9973,13 @@ justanime.*##.disclaimer
 justanime.*/*/themes/*/logo*new.*$image
 justanime.*##.comments-area
 justanime.*###comments
-justanime.*##[href="https://www.justanime.org/privacy-policy/"]
-justanime.*##[href="https://www.justanime.org/dmca/"]
+justanime.*##[href="https://justanime.org/privacy-policy/"]
+justanime.*##[href="https://justanime.org/dmca/"]
 cinema-mkv.*##.csbwfs-social-widget
 cinema-mkv.*###csbwfs-social-inner
 cinema-mkv.*##[href="https://bit.ly/2UxTbHx"]
 cinema-mkv.*##.fcred
-cinema-mkv.*##[href="https://www.facebook.com/officialcinemamkv/"]
+cinema-mkv.*##[href="https://facebook.com/officialcinemamkv/"]
 cinema-mkv.*##.fb-xfbml-parse-ignore
 cinema-mkv.*##.fb-page
 cinema-mkv.*##[href="http://cinema-mkv.com/how-to-download/"]
@@ -10025,8 +10035,8 @@ file-upload.*##.antivirus
 file-upload.*##.btn-success
 file-upload.*##.compare-col
 fix4dll.*##.white-button
-r3ndy.*##[href="https://www.r3ndy.com/cara-melewati-iklan-saat-download/"]
-r3ndy.*##[href="https://www.r3ndy.com/internet-download-manager/"]
+r3ndy.*##[href="https://r3ndy.com/cara-melewati-iklan-saat-download/"]
+r3ndy.*##[href="https://r3ndy.com/internet-download-manager/"]
 kuyhaa-me.*##.site-info
 kuyhaa-me.*##center:nth-of-type(1)
 kuyhaa-me.*##.sd-sharing
@@ -10055,8 +10065,8 @@ racaty.*##[href="https://policies.google.com/terms"]
 ||1fichier.*/qr.pl$image
 stackoverflow.*##.js-share-link
 youtube.*##.ytp-next-button
-spotify.*##[href="https://www.spotify.com/legal/cookies-policy/"]
-spotify.*##[href="https://www.spotify.com/legal/privacy-policy/"]
+spotify.*##[href="https://spotify.com/legal/cookies-policy/"]
+spotify.*##[href="https://spotify.com/legal/privacy-policy/"]
 imdb.com##.linksoda
 ||jodohkristen.*/*/img/header/*/*.*$image
 ||jodohkristen.*/*/img/*/splash.*$image
@@ -10064,7 +10074,7 @@ mediafire.*###cookie-accept-footer
 opera.*##.cookie-consent
 mediafire.*##[href="/software/mobile/"]
 mediafire.*##[href="https://vividengine.com"]
-mediafire.*##[href="https://www.vpnreports.com/"]
+mediafire.*##[href="https://vpnreports.com/"]
 mediafire.*##[href="/press/"]
 mediafire.*##[href="/upgrade"]
 mediafire.*##.DLExtraInfo-accountStatus
@@ -10074,11 +10084,11 @@ bignox.com##.social-item
 ||bignox.*/player/www/*/*$media
 bignox.*##[href="https://en.bignox.com/privacy"]
 bignox.*##[href="https://twitter.com/NoxAppPlayer"]
-bignox.*##[href="https://www.facebook.com/noxappplayer"]
+bignox.*##[href="https://facebook.com/noxappplayer"]
 notepad-plus-plus.*##.cc_banner
 notepad-plus-plus.*##.cc_message
-r3ndy.*##[href="https://www.r3ndy.com/tentang-kami/"]
-r3ndy.*##[href="https://www.saldopaypal.web.id/"]
+r3ndy.*##[href="https://r3ndy.com/tentang-kami/"]
+r3ndy.*##[href="https://saldopaypal.web.id/"]
 r3ndy.*##.mamamuda-social-wrapper
 maspras.*##.idblog-social-share
 maspras.*##.nav-previous
@@ -10107,8 +10117,8 @@ dropbox.*###content-download_desktop_client_milestone
 dropbox.*##.module-card__mobile-link
 dropbox.*##.module-card__install_mobile_module
 dropbox.*##.module-card__install_desktop_module
-dropbox.*##[href="https://www.dropbox.com/install"]
-dropbox.*##[href="https://www.dropbox.com/install/"]
+dropbox.*##[href="https://dropbox.com/install"]
+dropbox.*##[href="https://dropbox.com/install/"]
 last.*##.subscribe-cta
 riotpixels.*###help-us-translate
 riotpixels.*##.share
@@ -10133,13 +10143,13 @@ dinomarket.*##[href="https://itunes.apple.com/us/app/id1059158107"]
 ||operacdn.*/images/main/*/*branding*.*$image
 pixlr.*##.policies
 pixlr.*##[href="https://twitter.com/pixlr/"]
-pixlr.*##[href="https://www.facebook.com/pixlr/"]
-pixlr.*##[href="https://www.instagram.com/pixlr/"]
+pixlr.*##[href="https://facebook.com/pixlr/"]
+pixlr.*##[href="https://instagram.com/pixlr/"]
 pixlr.*##[href="https://blog.pixlr.com/"]
 soehoe.*##[href="help/terms"]
 soehoe.*##[href="help/"]
 soehoe.*##[href="https://soehoe.id/help/"]
-soehoe.*##[href="http://www.artodia.com/"]
+soehoe.*##[href="http://artodia.com/"]
 microsoft.*##.rewards-svg-renderer
 ||msauth.*/*/images/backgrounds/*.svg$image
 msauth.*/*/images/backgrounds/*.*$image
@@ -10175,7 +10185,7 @@ kaskus.*##.fa-fw.fa-bookmark
 steamstatic.*/*/videos/about*hero*loop*.*
 steamstatic.*/*/videos/*hero*loop*.*
 steamstatic.*/*/videos/*loop*.*
-hukumonline.*##.body-content1R > [href="https://www.hukumonline.com/stories/"]
+hukumonline.*##.body-content1R > [href="https://hukumonline.com/stories/"]
 gamespot.*##.ot-sdk-show-settings
 gamespot.*##[href="https://redventures.com/privacy-policy.html"]
 gamespot.*##[href="https://redventures.com/CMG-terms-of-use.html"]
@@ -10320,8 +10330,8 @@ memuplay.*##.downloadBtn
 ||memuplay.*/home/*/img/world*.*$image
 memuplay.*##.topic_blog.recommend-list
 memuplay.*##.media
-memuplay.*##[href="https://www.memuplay.com/agreement.html"]
-memuplay.*##[href="https://www.memuplay.com/privacy.html"]
+memuplay.*##[href="https://memuplay.com/agreement.html"]
+memuplay.*##[href="https://memuplay.com/privacy.html"]
 jpnn.*##.fl
 jpnn.*##.ln
 jpnn.*##.fa-link
@@ -10329,8 +10339,8 @@ jpnn.*###btnCopy
 jpnn.*##.baca-juga
 jpnn.*##.other-news
 jpnn.*##.info-apps
-jpnn.*##[href="https://www.jpnn.com/privacy-policy"]
-jpnn.*##[href="https://www.jpnn.com/pedoman-pemberitaan-media-siber"]
+jpnn.*##[href="https://jpnn.com/privacy-policy"]
+jpnn.*##[href="https://jpnn.com/pedoman-pemberitaan-media-siber"]
 jpnn.*##.medsos
 jpnn.*##.info-share
 jpnn.*##.wa
@@ -10339,12 +10349,12 @@ jpnn.*##.breadcrumb
 uploadrar.*###gdpr-cookie-notice
 uploadrar.*###news_last
 karanpc.*##[href="https://twitter.com/Karanpc_com"]
-karanpc.*##[href="https://www.facebook.com/KaranPC7/"]
+karanpc.*##[href="https://facebook.com/KaranPC7/"]
 karanpc.*##[href="https://t.me/karanpc7"]
 karanpc.*##[href="/privacy-policy/"]
 karanpc.*##[href="/dmca/"]
 karanpc.*##[href="/how-to-download/"]
-karanpc.*##[href="https://www.apk4people.com.de/"]
+karanpc.*##[href="https://apk4people.com.de/"]
 karanpc-software.*##[href="https://karanpc.com/how-to-download/"]
 karanpc-software.*##.right
 karanpc-software.*##[href="https://bit.ly/2y1912B"]
@@ -10477,14 +10487,14 @@ tabloidbintang.*##.qr-box-text
 tabloidbintang.*##.qr-box
 jpnn.*##.next-read
 merdeka.*##.mdk-join
-merdeka.*##[src="https://www.vidio.com/embed/*"]
+merdeka.*##[src="https://vidio.com/embed/*"]
 vidio.*/embed/*
 merdeka.*###kl-social-share
 merdeka.*##.slot-deskrip
-rctiplus.*##[href="https://www.rctiplus.com/privacy-policy"]
-rctiplus.*##[href="https://www.rctiplus.com/terms-&-conditions"]
-rctiplus.*##[href="https://www.rctiplus.com/faq"]
-rctiplus.*##[href="https://www.rctiplus.com/contact-us"]
+rctiplus.*##[href="https://rctiplus.com/privacy-policy"]
+rctiplus.*##[href="https://rctiplus.com/terms-&-conditions"]
+rctiplus.*##[href="https://rctiplus.com/faq"]
+rctiplus.*##[href="https://rctiplus.com/contact-us"]
 rctiplus.*##[href^="https://play.google.com/store/apps/details"]
 rctiplus.*##[href="https://apps.apple.com/id/app/rcti/id1472168599"]
 rctiplus.*##.live-chat-on
@@ -10494,7 +10504,7 @@ e.mail.ru##.TerfRcr
 e.mail.ru##.TerfRqb
 omahfxindo.*/*/*popup*.*$,image
 omahfxindo.*/*/themes/*/images/*header*.*$image
-omahfxindo.*##[src="https://www.omahfxindo.com/wp-content/themes/twentyseventeen/assets/images/popup-image-1.jpg"]
+omahfxindo.*##[src="https://omahfxindo.com/wp-content/themes/twentyseventeen/assets/images/popup-image-1.jpg"]
 ||binomo-web.*/*/images/l28/sl-img-2c2b816bc4c7ed353bf4.jpg$image
 ||binomo-web.*/*/images/l28/app_image-5ff4dbe8a55a0789165f.png$image
 ||binomo-web.*/*/images/l28/s-bg-4c222462c3d333855cb8.jpg$image
@@ -10526,14 +10536,14 @@ b4indicators.*##.notice-content
 genpi.*##.baca-juga
 genpi.*##.entry-categories
 genpi.*##.entry-tags
-genpi.*##[href="https://www.genpi.co/pages/2/pedoman-media-siber"]
-genpi.*#[href="https://www.genpi.co/pages/3/privacy-policy"]
+genpi.*##[href="https://genpi.co/pages/2/pedoman-media-siber"]
+genpi.*#[href="https://genpi.co/pages/3/privacy-policy"]
 nonktube.*###embed_video
 nonktube.*###share_video
 ftmo.*###cookie-law-info-bar
 ||payoneer.*/login/assets/*99a*.jpg
 payoneer.*##.b-socials
-novaragnarok.*##[href="https://www.novaragnarok.com/pp.html"]
+novaragnarok.*##[href="https://novaragnarok.com/pp.html"]
 ||fitgirl-repacks.*/*/uploads/*/garold.*$image
 fxprosystems.*##.b-share_romb
 forexfactory.*##.calendarspecs__header--right
@@ -10595,7 +10605,7 @@ d32ol38l7vki2i.cloudfront.*/games/*/images/main/*.mp4
 ||playragnarokzero.*/themes/*/img/*/*header*.*$image
 ||xhcdn.*/*xh*/*/d*/*bg*.*$image
 xhamster.*##.cookie-announce
-! 2022-03-24 https://www.dailyfx.com
+! 2022-03-24 https://dailyfx.com
 ||c-dn.*/b/*/*webinar*headline*.*$image
 bigo.*##.guide-phone-title
 ||bigo.*/*/img/*code*download*.*$image
@@ -10721,11 +10731,11 @@ solopos.*##.tag-lists
 solopos.*##.fa-share
 bigo.*##[href="/muslim"]
 dailymail.*##.social
-softpedia.*##[href="http://www.softpedia.com/user/cookies.shtml"]
-softpedia.*##[href="http://www.softpedia.com/user/privacy.shtml"]
+softpedia.*##[href="http://softpedia.com/user/cookies.shtml"]
+softpedia.*##[href="http://softpedia.com/user/privacy.shtml"]
 softpedia.*###cookienotif
-softpedia.*##[href="https://www.softpedia.com/user/privacy.shtml"]
-softpedia.*##[href="https://www.softpedia.com/user/cookies.shtml"]
+softpedia.*##[href="https://softpedia.com/user/privacy.shtml"]
+softpedia.*##[href="https://softpedia.com/user/cookies.shtml"]
 copydev.*##.mx-auto
 copydev.*##.navbar
 copydev.*##.navbar-collapse
@@ -10738,7 +10748,7 @@ katalogpromo.*##.widget_meta.widget
 katalogpromo.*##.widget_recent_comments
 katalogpromo.*##[href="https://id.wordpress.org/"]
 katalogpromo.*##[href="https://en.wordpress.org/"]
-katalogpromo.*##[href="https://www.wordpress.org/"]
+katalogpromo.*##[href="https://wordpress.org/"]
 jpnn.*##.ans-300x250
 apkmody.*##.body-fixed-footer
 ||pahe.*/*/themes/*/pahe.*$image
@@ -10770,10 +10780,10 @@ duckduckgo.*###logo_homepage_link
 mql5.*##.network-icons
 ||s.yimg.com/bx/adb/*.png
 ##[href^="https://data.mail.yahoo.com/f/track/tgt/clk"]
-kompas.*##[[href^="https://www.kompas.id/berlangganan/"]
-kompas.*##[[href^="https://www.kompas.com/berlangganan/"]
-kompas.*##[href="https://www.kompas.id/berlangganan/"]
-kompas.*##[href="https://www.kompas.com/berlangganan/"]
+kompas.*##[[href^="https://kompas.id/berlangganan/"]
+kompas.*##[[href^="https://kompas.com/berlangganan/"]
+kompas.*##[href="https://kompas.id/berlangganan/"]
+kompas.*##[href="https://kompas.com/berlangganan/"]
 kompas.*###smartbanner
 kompas.*##.wBelt-nakes
 kompas.*##.kcm-track
@@ -10905,8 +10915,8 @@ picnob.*##[href="/privacy/"]
 picnob.*##[href="/contact/"]
 ||gojek.*/static/*/*app*android*.*$image
 ||gn-web-assets.api.bbc.com/*/*background*large*.*$image
-mql5.*##[href^="https://www.mql5.com/ft/go"]
-||www.mql5.com/ft/sh/*$subdocument
+mql5.*##[href^="https://mql5.com/ft/go"]
+||mql5.com/ft/sh/*$subdocument
 myfxbook.*##[href="/privacy"]
 myfxbook.*##[href="/terms"]
 ||static.mfbcdn.net/images/*Sponsored*logo.*$image
@@ -11069,9 +11079,3 @@ kompas.*##.newBanner-wrap
 cnbcindonesia.*##.smartbanner_new
 cnbcindonesia.*##.ads-slot
 cnbcindonesia.*##.footer__about__apps
-time.is###menupositioner
-time.is###quote
-github.com##.flex-items-center.flex-justify-between.d-flex.my-3
-github.com##.rounded-1.border.blankslate-spacious.blankslate
-github.com##.d-block.d-md-none.mt-3.pt-3.color-border-muted.border-top
-github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1

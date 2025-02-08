@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Jan 2025 13:00 UTC (updated regularly)
-! host_count: 7484
+! Last modified: 08 Feb 2025 09:31 UTC (updated regularly)
+! host_count: 7497
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -408,6 +408,8 @@
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx-open-service.youku.com
+0.0.0.0 adx-os.bridgeoos.com
+0.0.0.0 adx-sg-req.bridgeoos.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 adxcorp.kr
 0.0.0.0 adz.mobi
@@ -648,6 +650,7 @@
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.bridgeoos.com
 0.0.0.0 api.browsermine.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bytebrew.io
@@ -659,12 +662,14 @@
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.ipify.org
 0.0.0.0 api.itpub.cloud
+0.0.0.0 api.kickoffo.site
 0.0.0.0 api.mediation.amberweather.com
 0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.myadsget.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.playsobat.xyz
@@ -673,9 +678,11 @@
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
+0.0.0.0 api.sve.cc
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
+0.0.0.0 api.youngle.tech
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
@@ -1736,6 +1743,7 @@
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 data2.doodlemobile.com
+0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 datadikdasmen.com
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 dataindonesia.id
@@ -2442,6 +2450,7 @@
 0.0.0.0 globalplanet.news
 0.0.0.0 gm21.mobi
 0.0.0.0 gnaija.net
+0.0.0.0 gnsnpaw.com
 0.0.0.0 go-give.net
 0.0.0.0 go.admost.com
 0.0.0.0 go.bestmobiworld.com
@@ -3116,6 +3125,7 @@
 0.0.0.0 journalnusantara.com
 0.0.0.0 joy.link
 0.0.0.0 jpnn.com
+0.0.0.0 jpush.io
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
@@ -3717,6 +3727,7 @@
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.isnssdk.com
+0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 log.kajicam.com
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
@@ -5289,6 +5300,8 @@
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.browser.miui.com
 0.0.0.0 r.turn.com
+0.0.0.0 r0.mail.ru
+0.0.0.0 r0.mradx.net
 0.0.0.0 r1---sn-n4v7sn7s.c.2mdn.net
 0.0.0.0 r2d2.aotter.net
 0.0.0.0 r3ndy.com
