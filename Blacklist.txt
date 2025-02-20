@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 08 Feb 2025 09:31 UTC (updated regularly)
-! host_count: 7497
+! Last modified: 20 Feb 2025 14:38 UTC (updated regularly)
+! host_count: 7540
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -167,6 +167,7 @@
 0.0.0.0 adanu.co.id
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adatah.com
 0.0.0.0 adawarta.com
@@ -280,6 +281,7 @@
 0.0.0.0 ads.adinmotech.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.aitype.net
+0.0.0.0 ads.appbundledownload.com
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.bulldogcpi.com
@@ -637,6 +639,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
+0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -673,6 +676,7 @@
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.playsobat.xyz
+0.0.0.0 api.plyair.com
 0.0.0.0 api.reproio.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
@@ -767,6 +771,7 @@
 0.0.0.0 asupan.me
 0.0.0.0 asurastrike.de
 0.0.0.0 aswajanews.com
+0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atlant.solutions
 0.0.0.0 atlanticride.com
@@ -810,6 +815,7 @@
 0.0.0.0 avtub.diy
 0.0.0.0 avtub.net
 0.0.0.0 awall.id
+0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 axialnews.id
 0.0.0.0 axoncoho.tk
 0.0.0.0 axonix.com
@@ -1114,6 +1120,7 @@
 0.0.0.0 bisnisbandung.com
 0.0.0.0 bisnismuda.id
 0.0.0.0 bisnistoday.co.id
+0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 bit.ly
 0.0.0.0 bitclaive.com
 0.0.0.0 bitcoin-cashcard.com
@@ -1399,6 +1406,7 @@
 0.0.0.0 cdn.minescripts.info
 0.0.0.0 cdn.seaofads.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.wtshare.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn13.com
 0.0.0.0 cdn2.auditude.com
@@ -1413,6 +1421,7 @@
 0.0.0.0 cds.taboola.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cea9d3d4f74fb831.com
+0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedarlake.org
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
@@ -1575,6 +1584,7 @@
 0.0.0.0 collect.babybus.com
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
+0.0.0.0 collect.ureca-lab.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
@@ -1683,6 +1693,7 @@
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cyberjudi.com
 0.0.0.0 d-cache.microad.jp
+0.0.0.0 d-load.org
 0.0.0.0 d.adroll.com
 0.0.0.0 d.agkn.com
 0.0.0.0 d.applvn.com
@@ -1748,6 +1759,7 @@
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 dataindonesia.id
 0.0.0.0 datanews.id
+0.0.0.0 datk.bridgeoos.com
 0.0.0.0 datum.sale
 0.0.0.0 daulatrakyat.com
 0.0.0.0 dayaknews.com
@@ -2296,6 +2308,7 @@
 0.0.0.0 fkglkpkgkduh.top
 0.0.0.0 flare-analytics.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 flashtalking.com
 0.0.0.0 flexterkita.com
 0.0.0.0 flighty.win
 0.0.0.0 flightzy.date
@@ -2342,6 +2355,7 @@
 0.0.0.0 fryruejoust.cam
 0.0.0.0 funfairtoken.org
 0.0.0.0 funletters.net
+0.0.0.0 funpavo.com
 0.0.0.0 furocmay.com
 0.0.0.0 fussballclub-24.de
 0.0.0.0 fuyuh.com
@@ -2360,12 +2374,15 @@
 0.0.0.0 gadgetized.net
 0.0.0.0 gaikindo.or.id
 0.0.0.0 galerisumba.com
+0.0.0.0 gamaibids.com
 0.0.0.0 gambar123.com
 0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gamebrott.com
 0.0.0.0 gamefever.co.id
 0.0.0.0 gamefllp.com
+0.0.0.0 gamerplay67.space
 0.0.0.0 games.njanzen.de
+0.0.0.0 games.tresensa.com
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gammafisblog.com
 0.0.0.0 ganool.app
@@ -2521,10 +2538,13 @@
 0.0.0.0 guru-id.com
 0.0.0.0 gurusiana.id
 0.0.0.0 gustani.id
+0.0.0.0 gwbudgetali.iymedia.me
 0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 gxbrowser.net
 0.0.0.0 gynax.com
 0.0.0.0 gztcpcmynls.fihsifuiiusuiuduf.com
+0.0.0.0 h-adashx.ut.alibaba.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h5.isnssdk.com
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 habanusantara.net
@@ -2682,6 +2702,7 @@
 0.0.0.0 i-vengo.com
 0.0.0.0 i.clean.gg
 0.0.0.0 i.isnssdk.com
+0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.singular.net
 0.0.0.0 i.skimresources.com
 0.0.0.0 i.w55c.net
@@ -2799,7 +2820,9 @@
 0.0.0.0 img.3lift.com
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imp.startappservice.com
+0.0.0.0 imprdom.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 impression.link
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 imtoken8.cc
@@ -3741,12 +3764,14 @@
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tpns.tencent.com
+0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log5.interactive-circle.jp
+0.0.0.0 loganmedia.mobi
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
@@ -3782,6 +3807,7 @@
 0.0.0.0 lp4.io
 0.0.0.0 lpaizureik.com
 0.0.0.0 lpkiukiu.pw
+0.0.0.0 lqm.io
 0.0.0.0 lsgqlgoc.com
 0.0.0.0 luckyads.com
 0.0.0.0 luckyforworlds.com
@@ -3860,6 +3886,7 @@
 0.0.0.0 mangayaro.id
 0.0.0.0 manggarainews.com
 0.0.0.0 mangindo.xyz
+0.0.0.0 mangomob.net
 0.0.0.0 manhwadesu.cc
 0.0.0.0 manhwadesu.eu
 0.0.0.0 manhwadesu.guru
@@ -4614,6 +4641,7 @@
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 noteza.id
 0.0.0.0 notifindonesia.com
+0.0.0.0 notifiy.rtbuniverse.com
 0.0.0.0 novedadescarminha.band
 0.0.0.0 novelgo.id
 0.0.0.0 noveltoon.mobi
@@ -4896,6 +4924,7 @@
 0.0.0.0 patrolinews.id
 0.0.0.0 patrolipost.com
 0.0.0.0 patunas.co.id
+0.0.0.0 pavoboxapp.com
 0.0.0.0 paxful.com.ng
 0.0.0.0 payingbeswim.com
 0.0.0.0 paylaterin.com
@@ -4996,6 +5025,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.magentamarketing.com
 0.0.0.0 pixel.quantcount.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
@@ -5165,6 +5195,7 @@
 0.0.0.0 presmedia.id
 0.0.0.0 preview-collector.scopely.io
 0.0.0.0 prioritastv.com
+0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 privatix.live
 0.0.0.0 privatix.me
@@ -5514,6 +5545,7 @@
 0.0.0.0 rkonline.id
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
+0.0.0.0 rm.aarki.net
 0.0.0.0 rmnews.id
 0.0.0.0 rmol.id
 0.0.0.0 rmollampung.id
@@ -5631,6 +5663,7 @@
 0.0.0.0 samsungstarters.com
 0.0.0.0 samuderakepri.co.id
 0.0.0.0 samudranews.com
+0.0.0.0 san.myadssupport.com
 0.0.0.0 sangalu.com
 0.0.0.0 sangelink.com.se
 0.0.0.0 sangetods.net
@@ -6090,6 +6123,7 @@
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.media
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
 0.0.0.0 statdynamic.com
@@ -6112,12 +6146,14 @@
 0.0.0.0 static5.mixi.media
 0.0.0.0 static6.mixi.media
 0.0.0.0 static8.mixi.media
+0.0.0.0 staticcc.com
 0.0.0.0 staticsfs.host
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats-sg.ganymede.eu
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.appsflyer.com
+0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.grafana.org
@@ -6365,6 +6401,7 @@
 0.0.0.0 tapad.com
 0.0.0.0 tapanulipost.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
+0.0.0.0 tapi.pureapk.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
@@ -6444,6 +6481,7 @@
 0.0.0.0 terasmaluku.com
 0.0.0.0 terasmalut.id
 0.0.0.0 teraspapua.com
+0.0.0.0 teraverseapp.com
 0.0.0.0 terbit21.app
 0.0.0.0 terbit21.gdn
 0.0.0.0 terdekatku.com
@@ -6642,6 +6680,7 @@
 0.0.0.0 track-resource.bidease.com
 0.0.0.0 track-us.bidease.com
 0.0.0.0 track.adform.net
+0.0.0.0 track.aieic.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.avxid.com
@@ -6668,6 +6707,7 @@
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.srta.spectrum.com
+0.0.0.0 tracker.str-nrg.com
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 trackernew.ulivetv.net
 0.0.0.0 trackersdk.bdash-cloud.com
@@ -6681,6 +6721,7 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 tracking.carbonatixaudio.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.iwhop.cn
@@ -6699,6 +6740,7 @@
 0.0.0.0 tradplusad.com
 0.0.0.0 traff10wap.com
 0.0.0.0 traffic-monetizer.com
+0.0.0.0 traffic.calldorado.com
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficjunky.net
@@ -6868,6 +6910,7 @@
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
+0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 useads.com
 0.0.0.0 usekahuna.com
