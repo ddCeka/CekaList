@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Feb 2025 14:38 UTC (updated regularly)
-! host_count: 7540
+! Last modified: 23 Feb 2025 22:44 UTC (updated regularly)
+! host_count: 7543
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2657,6 +2657,7 @@
 0.0.0.0 hoki.mu
 0.0.0.0 hokijudi99.com
 0.0.0.0 hokitogel.com
+0.0.0.0 holahupa.com
 0.0.0.0 holdempokerchat.com
 0.0.0.0 holder.com.ua
 0.0.0.0 homepokergames.com
@@ -2966,6 +2967,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insights-categorizer-noneu.truecaller.com
+0.0.0.0 insights.alibaba.com
 0.0.0.0 insights.zennioptical.com
 0.0.0.0 insitekaltim.com
 0.0.0.0 inspira.tv
@@ -4250,6 +4252,7 @@
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.com
